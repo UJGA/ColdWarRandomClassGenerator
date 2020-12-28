@@ -56,8 +56,9 @@ const submachineGuns = [
     name: "MAC-10",
     image: "/primaries/mac10.png",
   },
+];
 
-  //Tactical Rifles
+const tacticalRifles = [
   {
     name: "Type 63",
     image: "/primaries/type63.png",
@@ -89,8 +90,9 @@ const lmgGuns = [
     name: "M60",
     image: "/primaries/m60.png",
   },
+];
 
-  //Sniper Rifles
+const sniperRifles = [
   {
     name: "Pelington 703",
     image: "/primaries/pelington703.png",
@@ -105,7 +107,13 @@ const lmgGuns = [
   },
 ];
 
-const primaryGuns = [].concat(assaultRifles, submachineGuns, lmgGuns);
+const primaryGuns = [].concat(
+  assaultRifles,
+  submachineGuns,
+  tacticalRifles,
+  lmgGuns,
+  sniperRifles
+);
 
 const shotguns = [
   {
