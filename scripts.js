@@ -2,9 +2,9 @@
 function random_item() {
     // console.log("button pressed");
 
-// Reset all Elements (Used for if user spamms generate button)
+    // Reset all Elements (Used for if user spamms generate button)
 
-// Reset Primary
+    // Reset Primary
     document.getElementById("primaryH3").innerHTML = ""
     document.getElementById("primary").innerHTML = "";
 
@@ -41,7 +41,7 @@ function random_item() {
     document.getElementById("primaryAtt8").innerHTML = "";
 
 
-// Reset Secondary
+    // Reset Secondary
     document.getElementById("secondaryH3").innerHTML = "";
     document.getElementById("secondary").innerHTML = "";
 
@@ -78,42 +78,42 @@ function random_item() {
     document.getElementById("secondaryAtt8").innerHTML = "";
 
 
-// Reset Tactical
+    // Reset Tactical
     document.getElementById("tacticalH3").innerHTML = "";
     document.getElementById("tactical").innerHTML = "";
 
-// Reset Lethal
+    // Reset Lethal
     document.getElementById("lethalH3").innerHTML = "";
     document.getElementById("lethal").innerHTML = "";
-    
-// Reset Field Upgrade
+
+    // Reset Field Upgrade
     document.getElementById("fieldUpgradeH3").innerHTML = "";
     document.getElementById("fieldUpgrade").innerHTML = "";
 
-// Reset Perk 1
+    // Reset Perk 1
     document.getElementById("perk1H3").innerHTML = "";
     document.getElementById("perk1").innerHTML = "";
 
-// Reset Perk 2
+    // Reset Perk 2
     document.getElementById("perk2H3").innerHTML = "";
-    document.getElementById("perk2").innerHTML = ""; 
+    document.getElementById("perk2").innerHTML = "";
 
-// Reset Perk 3
+    // Reset Perk 3
     document.getElementById("perk3H3").innerHTML = "";
-    document.getElementById("perk3").innerHTML = ""; 
+    document.getElementById("perk3").innerHTML = "";
 
-// Reset Wildcard
+    // Reset Wildcard
     document.getElementById("wildcardH3").innerHTML = "";
-    document.getElementById("wildcard").innerHTML = ""; 
+    document.getElementById("wildcard").innerHTML = "";
 
     var element = document.getElementById("classContent");
     element.classList.add("classContent");
 
 
 
-// Random Primary Logic
+    // Random Primary Logic
 
-var randomPrimary = primarysArray[Math.floor(Math.random() * primarysArray.length)];
+    var randomPrimary = primarysArray[Math.floor(Math.random() * primarysArray.length)];
 
     //Used for Testing
     // console.log("The Primary name is -----------------------------------------" + randomPrimary.name);
@@ -122,87 +122,190 @@ var randomPrimary = primarysArray[Math.floor(Math.random() * primarysArray.lengt
     document.getElementById("primary").innerHTML = randomPrimary.name + '<br>' + '<img style="width:200px;"  src="' + randomPrimary.image + ' " alt="' + randomPrimary.name + '">';
     document.getElementById("primaryH3").innerHTML = "Primary";
 
-//Random Secondary Logic
-var randomSecondary = secondarysArray[Math.floor(Math.random() * secondarysArray.length)];
-    
+    //Random Secondary Logic
+    var randomSecondary = secondarysArray[Math.floor(Math.random() * secondarysArray.length)];
+
     //Used for Testing
     // console.log("The Secondary name is -----------------------------------------" + randomSecondary.name);
     // console.log("The Secondary image is -----------------------------------------" + randomSecondary.image);
-    
+
     document.getElementById("secondary").innerHTML = randomSecondary.name + '<br>' + '<img  style="width:200px;"  src="' + randomSecondary.image + ' " alt="' + randomSecondary.name + '">';
     document.getElementById("secondaryH3").innerHTML = "Secondary";
 
-// Random Perk 1 Logic
-var randomPerk1 = perk1Array[Math.floor(Math.random() * perk1Array.length)];
+    // Random Perk 1 Logic
+    var randomPerk1 = perk1Array[Math.floor(Math.random() * perk1Array.length)];
     document.getElementById("perk1").innerHTML = randomPerk1.name + '<br>' + '<img style="width:200px;" src="' + randomPerk1.image + ' " alt="' + randomPerk1.name + '">';
     document.getElementById("perk1H3").innerHTML = "Perk 1";
 
-// Random Perk 2 Logic
-var randomPerk2 = perk2Array[Math.floor(Math.random() * perk2Array.length)];
-    document.getElementById("perk2").innerHTML = randomPerk2.name + '<br>' + '<img style="width:200px;" src="' + randomPerk2.image +' " alt="' + randomPerk2.name + '">';
+    // Random Perk 2 Logic
+    var randomPerk2 = perk2Array[Math.floor(Math.random() * perk2Array.length)];
+    document.getElementById("perk2").innerHTML = randomPerk2.name + '<br>' + '<img style="width:200px;" src="' + randomPerk2.image + ' " alt="' + randomPerk2.name + '">';
     document.getElementById("perk2H3").innerHTML = "Perk 2";
 
-// Random Perk 3 Logic
+    // Random Perk 3 Logic
 
-var randomPerk3 = perk3Array[Math.floor(Math.random() * perk3Array.length)];
+    var randomPerk3 = perk3Array[Math.floor(Math.random() * perk3Array.length)];
     document.getElementById("perk3H3").innerHTML = "Perk 3";
     document.getElementById("perk3").innerHTML = randomPerk3.name + '<br>' + '<img style="width:200px;" src="' + randomPerk3.image + ' " alt="' + randomPerk3.name + '">';
 
-//Random Lethal Logic
-var randomLethal = lethalsArray[Math.floor(Math.random() * lethalsArray.length)];
+    //Random Lethal Logic
+    var randomLethal = lethalsArray[Math.floor(Math.random() * lethalsArray.length)];
     document.getElementById("lethal").innerHTML = randomLethal.name + '<br>' + '<img style="width:200px;" src="' + randomLethal.image + ' " alt="' + randomLethal.name + '">';
     document.getElementById("lethalH3").innerHTML = "Lethal";
 
-// Random Tactical Logic
-var randomTactical = tacticalsArray[Math.floor(Math.random() * tacticalsArray.length)];
+    // Random Tactical Logic
+    var randomTactical = tacticalsArray[Math.floor(Math.random() * tacticalsArray.length)];
     document.getElementById("tactical").innerHTML = randomTactical.name + '<br>' + '<img style="width:200px;" src="' + randomTactical.image + ' " alt="' + randomTactical.name + '">';
     document.getElementById("tacticalH3").innerHTML = "Tactical";
 
-//Random Field Upgrade Logic
-var randomUpgrade = fieldUpgradesArray[Math.floor(Math.random() * fieldUpgradesArray.length)];
+    //Random Field Upgrade Logic
+    var randomUpgrade = fieldUpgradesArray[Math.floor(Math.random() * fieldUpgradesArray.length)];
     document.getElementById("fieldUpgrade").innerHTML = randomUpgrade.name + '<br>' + '<img style="width:200px;" src="' + randomUpgrade.image + ' " alt="' + randomUpgrade.name + '">';
     document.getElementById("fieldUpgradeH3").innerHTML = "Field Upgrade";
 
-//Random Wildcard Logic
-var randomWildcard = wildcardsArray[Math.floor(Math.random() * wildcardsArray.length)];
+    //Random Wildcard Logic
+    var randomWildcard = wildcardsArray[Math.floor(Math.random() * wildcardsArray.length)];
     document.getElementById("wildcard").innerHTML = randomWildcard.name + '<br>' + '<img style="width:200px;" src="' + randomWildcard.image + ' " alt="' + randomWildcard.name + '">';
     document.getElementById("wildcardH3").innerHTML = "Wildcard";
 
 
 
-//Call to Weapon Functions
+    //Call to Weapon Functions
 
     //Primaries
     switch (randomPrimary.name) {
-        case "test":
-            test();
+        // Assult Rifles
+        case "test1":
+            test1();
             break;
-        case "test":
-            test();
+        case "XM4":
+            xm4();
             break;
-        case "test":
-            test();
+        case "AK-47":
+            ak47();
             break;
-        case "test":
-            test();
+        case "Krig 6":
+            krig6();
+            break;
+        case "QBZ-83":
+            qbz83();
+            break;
+        case "FFAR 1":
+            ffar1();
+            break;
+        case "Groza":
+            groza();
+            break;
+
+            // Submachine Guns
+        case "MP5":
+            mp5();
+            break;
+        case "Milano 821":
+            milano821();
+            break;
+        case "AK-74u":
+            ak74u();
+            break;
+        case "KSP 45":
+            ksp45();
+            break;
+        case "Bullfrog":
+            bullfrog();
+            break;
+        case "MAC-10":
+            mac10();
+            break;
+
+            //Tacitcal Rifles
+        case "Type 63":
+            type63();
+            break;
+        case "M16":
+            m16();
+            break;
+        case "AUG":
+            aug();
+            break;
+        case "DMR 14":
+            dmr14();
+            break;
+
+            //Light Machine Guns
+        case "Stoner 63":
+            stoner63();
+            break;
+        case "RPD":
+            rpd();
+            break;
+        case "M60":
+            m60();
+            break;
+
+            //Sniper Rifles
+        case "Pelington 703":
+            pelington703();
+            break;
+        case "LW3 - Tundra":
+            lw3tundra();
+            break;
+        case "M82":
+            m82();
             break;
     }
 
     //Secondaries
     switch (randomSecondary.name) {
-        case "test":
-            test();
+        case "test12":
+            test12();
             break;
-        case "test":
-            test();
+
+            //Shotguns
+        case "Hauer 77":
+            hauer77();
             break;
-        case "test":
-            test();
+        case "Gallo SA12":
+            gallosa12();
             break;
-        case "test":
-            test();
+        case "Streetsweeper":
+            streetsweeper();
             break;
+
+            //Pistols
+        case "1911":
+            p1911();
+            break;
+        case "Magnum":
+            magnum();
+            break;
+        case "Diamatti":
+            diamatti();
+            break;
+
+            //Launchers
+        case "Cigma 2":
+            cigma2();
+            break;
+        case "RPG-7":
+            rpg7();
+            break;
+
+            //Mele
+        case "Knife":
+            knife();
+            break;
+        case "Sledgehammer":
+            sledgehammer();
+            break;
+        case "Wakizashi":
+            wakizashi();
+            break;
+        case "M79":
+            m79();
+            break;
+
     }
+
 
 
 
