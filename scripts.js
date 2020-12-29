@@ -102,6 +102,22 @@ function random_item() {
     document.getElementById("perk3H3").innerHTML = "";
     document.getElementById("perk3").innerHTML = "";
 
+
+     // Reset Perk 1 PG
+     document.getElementById("perk1PGH3").innerHTML = "";
+     document.getElementById("perk1PG").innerHTML = "";
+ 
+     // Reset Perk 2 PG
+     document.getElementById("perkPG2H3").innerHTML = "";
+     document.getElementById("perk2PG").innerHTML = "";
+ 
+     // Reset Perk 3 PG
+     document.getElementById("perk3PGH3").innerHTML = "";
+     document.getElementById("perk3PG").innerHTML = "";
+ 
+     var element = document.getElementById("classContent");
+     element.classList.add("classContent");
+
     // Reset Wildcard
     document.getElementById("wildcardH3").innerHTML = "";
     document.getElementById("wildcard").innerHTML = "";
@@ -169,15 +185,48 @@ function random_item() {
     document.getElementById("wildcardH3").innerHTML = "Wildcard";
 
 
+    //Perk Greed Functions
+    function perk1PG() {
+        var randomPerk1PG = perk1Array[Math.floor(Math.random() * perk1Array.length)];
+        document.getElementById("perk1PG").innerHTML = randomPerk1PG.name + '<br>' + '<img style="width:200px;" src="' + randomPerk1PG.image + ' " alt="' + randomPerk1PG.name + '">';
+        if (randomPerk1.name === randomPerk1PG.name) {
+            perk1PG();
+        }
+    }
+
+    function perk2PG() {
+        var randomPerk2PG = perk2Array[Math.floor(Math.random() * perk2Array.length)];
+        document.getElementById("perk2PG").innerHTML = randomPerk2PG.name + '<br>' + '<img style="width:200px;" src="' + randomPerk2PG.image + ' " alt="' + randomPerk2PG.name + '">';
+        if (randomPerk2.name === randomPerk2PG.name) {
+            perk2PG();
+        }
+    }
+
+    function perk3PG() {
+        var randomPerk3PG = perk3Array[Math.floor(Math.random() * perk3Array.length)];
+        document.getElementById("perk3PG").innerHTML = randomPerk3PG.name + '<br>' + '<img style="width:200px;" src="' + randomPerk3PG.image + ' " alt="' + randomPerk3PG.name + '">';
+        if (randomPerk3.name === randomPerk3PG.name) {
+            perk3PG();
+        }
+    }
+
+    if (randomWildcard.name === "Perk Greed") {
+        perk1PG();
+        perk2PG();
+        perk3PG();
+    }
+    // END Perk Greed Functions
+
+    //Law Breaker Function
+    if (randomWildcard.name =="Law Breaker")
+    {
+        lawbreaker();
+    }
 
     //Call to Weapon Functions
-
     //Primaries
     switch (randomPrimary.name) {
         // Assult Rifles
-        case "test1":
-            test1();
-            break;
         case "XM4":
             xm4();
             break;
@@ -256,11 +305,7 @@ function random_item() {
 
     //Secondaries
     switch (randomSecondary.name) {
-        case "test12":
-            test12();
-            break;
-
-            //Shotguns
+        //Shotguns
         case "Hauer 77":
             hauer77();
             break;
@@ -305,6 +350,90 @@ function random_item() {
             break;
 
     }
+
+    //If Gunfighter is equipped
+    if (randomWildcard.name === "Gunfighter") {
+        switch (randomPrimary.name) {
+            // Assult Rifles
+            case "XM4":
+                xm4w();
+                break;
+            case "AK-47":
+                ak47w();
+                break;
+            case "Krig 6":
+                krig6w();
+                break;
+            case "QBZ-83":
+                qbz83w();
+                break;
+            case "FFAR 1":
+                ffar1w();
+                break;
+            case "Groza":
+                grozaw();
+                break;
+
+                // Submachine Guns
+            case "MP5":
+                mp5w();
+                break;
+            case "Milano 821":
+                milano821w();
+                break;
+            case "AK-74u":
+                ak74uw();
+                break;
+            case "KSP 45":
+                ksp45w();
+                break;
+            case "Bullfrog":
+                bullfrogw();
+                break;
+            case "MAC-10":
+                mac10w();
+                break;
+
+                //Tacitcal Rifles
+            case "Type 63":
+                type63w();
+                break;
+            case "M16":
+                m16w();
+                break;
+            case "AUG":
+                augw();
+                break;
+            case "DMR 14":
+                dmr14w();
+                break;
+
+                //Light Machine Guns
+            case "Stoner 63":
+                stoner63w();
+                break;
+            case "RPD":
+                rpdw();
+                break;
+            case "M60":
+                m60w();
+                break;
+
+                //Sniper Rifles
+            case "Pelington 703":
+                pelington703w();
+                break;
+            case "LW3 - Tundra":
+                lw3tundraw();
+                break;
+            case "M82":
+                m82w();
+                break;
+        }
+    }
+
+
+
 
 
 

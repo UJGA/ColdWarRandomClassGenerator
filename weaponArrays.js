@@ -3,14 +3,9 @@ var primarysArray = [
 
     //Assault Rifles
     {
-        name: 'test1',
-        image: '/primaries/ak47.png'
-    },
-    {
         name: 'XM4',
         image: '/primaries/xm4.png'
     },
-    
     {
         name: 'AK-47',
         image: '/primaries/ak47.png'
@@ -108,11 +103,6 @@ var primarysArray = [
     
     // Secondary Weapons Array
     var secondarysArray = [
-        {
-            name: 'test12',
-            image: '/secondaries/ak47.png'
-        },
-        
         //Shotguns
         {
             name: 'Hauer 77',
@@ -353,11 +343,11 @@ var primarysArray = [
             image: '/wildcards/lawbreaker.png'
         },
         {
-            name: 'Gunfighter',
-            image: '/wildcards/gunfighter.png'
-        },
-        {
             name: 'Perk Greed',
             image: '/wildcards/perkgreed.png'
+        },
+        {
+            name: 'Gunfighter',
+            image: '/wildcards/gunfighter.png'
         },
         ];

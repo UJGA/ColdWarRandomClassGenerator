@@ -13,3 +13,11 @@
     height: 90%;
 
 }
+body{
+    background-image: url("backgrounnd.jpg");
+    background-size: auto;
+}
+
+nav{
+    background-color: white;
+}

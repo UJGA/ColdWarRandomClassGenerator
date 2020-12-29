@@ -1,8 +1,8 @@
-//Template
+//Assalt Rifle Template
 
 function template() {
     var numAttachments = [0, 1, 2, 3, 4, 5, 6, 7];
-    var totalCount = 8;
+    var totalCount = 5;
     var ran = Math.floor(Math.random() * 5) + 0;
     var attArr = [];
     for (var i = 0; i <= ran; i++) {
@@ -29,11 +29,15 @@ function template() {
             image: '/attachments/optics/kobrareddot.png'
         },
         {
+            name: 'Quickdot LED',
+            image: '/attachments/optics/quickdotled.png'
+        },
+        {
             name: 'Axial Arms 3x',
             image: '/attachments/optics/axialarms3x.png'
         },
         {
-            name: 'Silliz Holoscout',
+            name: 'Sillix Holoscout',
             image: '/attachments/optics/sillixholosxout.png'
         },
         {
@@ -89,33 +93,29 @@ function template() {
 
     var muzzles = [
         {
-            name: 'test1',
-            image: '/attachments/gun/test.png'
+            name: 'Muzzle Brake 5.56',
+            image: '/attachments/muzzles/muzzlebrake556.png'
         },
         {
-            name: 'test2',
-            image: '/attachments/gun/test.png'
+            name: 'Flashguard 5.56',
+            image: '/attachments/muzzles/flashguard556.png'
         },
         {
-            name: 'test3',
-            image: '/attachments/gun/test.png'
+            name: 'Suppressor',
+            image: '/attachments/muzzles/Suppressor.png'
         },
         {
-            name: 'test4',
-            image: '/attachments/gun/test.png'
+            name: 'Infantry Compensator',
+            image: '/attachments/muzzles/infantrycompensator.png'
         },
         {
-            name: 'test5',
-            image: '/attachments/gun/test.png'
+            name: 'SOCOM Eliminator',
+            image: '/attachments/muzzles/socomeliminator.png'
         },
         {
-            name: 'test6',
-            image: '/attachments/gun/test.png'
+            name: 'Agency Suppressor',
+            image: '/attachments/muzzles/test.png'
         },
-        {
-            name: 'test7',
-            image: '/attachments/gun/test.png'
-        }
     ];
 
 
@@ -147,31 +147,31 @@ function template() {
     var barrels = [
         {
             name: 'test1',
-            image: '/attachments/gun/test.png'
+            image: '/attachments/barrels/test.png'
         },
         {
             name: 'test2',
-            image: '/attachments/gun/test.png'
+            image: '/attachments/barrels/test.png'
         },
         {
             name: 'test3',
-            image: '/attachments/gun/test.png'
+            image: '/attachments/barrels/test.png'
         },
         {
             name: 'test4',
-            image: '/attachments/gun/test.png'
+            image: '/attachments/barrels/test.png'
         },
         {
             name: 'test5',
-            image: '/attachments/gun/test.png'
+            image: '/attachments/barrels/test.png'
         },
         {
             name: 'test6',
-            image: '/attachments/gun/test.png'
+            image: '/attachments/barrels/test.png'
         },
         {
             name: 'test7',
-            image: '/attachments/gun/test.png'
+            image: '/attachments/barrels/test.png'
         }
     ];
 
@@ -203,33 +203,29 @@ function template() {
 
     var bodys = [
         {
-            name: 'test1',
-            image: '/attachments/gun/test.png'
+            name: 'Steady Aim Laser',
+            image: '/attachments/bodys/steadyaimlaser.png'
         },
         {
-            name: 'test2',
-            image: '/attachments/gun/test.png'
+            name: 'Mounted Flashlight',
+            image: '/attachments/bodys/mountedflashlight.png'
         },
         {
-            name: 'test3',
-            image: '/attachments/gun/test.png'
+            name: 'SOF Target Designator',
+            image: '/attachments/bodys/softargetdesignator.png'
         },
         {
-            name: 'test4',
-            image: '/attachments/gun/test.png'
+            name: 'SWAT 5mw Laser Sight',
+            image: '/attachments/bodys/swat5mwlasersight.png'
         },
         {
-            name: 'test5',
-            image: '/attachments/gun/test.png'
+            name: 'Tiger Team Spotlight',
+            image: '/attachments/bodys/tigerteamspotlight.png'
         },
         {
-            name: 'test6',
-            image: '/attachments/gun/test.png'
+            name: 'Emvber Sighting Point',
+            image: '/attachments/bodys/embersightingpoint.png'
         },
-        {
-            name: 'test7',
-            image: '/attachments/gun/test.png'
-        }
     ];
 
 
@@ -316,33 +312,29 @@ function template() {
 
     var magazines = [
         {
-            name: 'test1',
-            image: '/attachments/gun/test.png'
+            name: '40 RND',
+            image: '/attachments/magazines/40rnd.png'
         },
         {
-            name: 'test2',
-            image: '/attachments/gun/test.png'
+            name: 'Jungle-Style Mag',
+            image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: 'test3',
-            image: '/attachments/gun/test.png'
+            name: '40 Rnd Speed Mag',
+            image: '/attachments/magazines/40rndspeedmag.png'
         },
         {
-            name: 'test4',
-            image: '/attachments/gun/test.png'
+            name: 'STANAG 50 Rnd',
+            image: '/attachments/magazines/stanag50rnd.png'
         },
         {
-            name: 'test5',
-            image: '/attachments/gun/test.png'
+            name: 'SAS Mag Clamp',
+            image: '/attachments/magazines/sasmagclamp.png'
         },
         {
-            name: 'test6',
-            image: '/attachments/gun/test.png'
+            name: 'Salvo 50 Rnd Fast Mag',
+            image: '/attachments/magazines/salvo50rndfastmag.png'
         },
-        {
-            name: 'test7',
-            image: '/attachments/gun/test.png'
-        }
     ];
 
 
@@ -377,33 +369,29 @@ function template() {
 
     var handles = [
         {
-            name: 'test1',
-            image: '/attachments/gun/test.png'
+            name: 'Speed Tape',
+            image: '/attachments/handles/speedtape.png'
         },
         {
-            name: 'test2',
-            image: '/attachments/gun/test.png'
+            name: 'Dropshot Wrap',
+            image: '/attachments/handles/dropshotwrap.png'
         },
         {
-            name: 'test3',
-            image: '/attachments/gun/test.png'
+            name: 'Field Tape',
+            image: '/attachments/handles/fieldtape.png'
         },
         {
-            name: 'test4',
-            image: '/attachments/gun/test.png'
+            name: 'SARS Jungle Grip',
+            image: '/attachments/handles/sarsjunglegrip.png'
         },
         {
-            name: 'test5',
-            image: '/attachments/gun/test.png'
+            name: 'Serpent Wrap',
+            image: '/attachments/handles/serpentwrap.png'
         },
         {
-            name: 'test6',
-            image: '/attachments/gun/test.png'
+            name: 'Airborne Elastic Wrap',
+            image: '/attachments/handles/airbornelasticwrap.png'
         },
-        {
-            name: 'test7',
-            image: '/attachments/gun/test.png'
-        }
     ];
 
 
@@ -435,33 +423,29 @@ function template() {
 
     var stocks = [
         {
-            name: 'test1',
-            image: '/attachments/gun/test.png'
+            name: 'Tactical Stock',
+            image: '/attachments/stocks/tacticalstock.png'
         },
         {
-            name: 'test2',
-            image: '/attachments/gun/test.png'
+            name: 'Wire Stock',
+            image: '/attachments/stocks/wirestock.png'
         },
         {
-            name: 'test3',
-            image: '/attachments/gun/test.png'
+            name: 'Duster Stock',
+            image: '/attachments/stocks/dusterstock.png'
         },
         {
-            name: 'test4',
-            image: '/attachments/gun/test.png'
+            name: 'No Stock',
+            image: '/attachments/stocks/nostock.png'
         },
         {
-            name: 'test5',
-            image: '/attachments/gun/test.png'
+            name: 'SAS Combat Stock',
+            image: '/attachments/stocks/sascombatstock.png'
         },
         {
-            name: 'test6',
-            image: '/attachments/gun/test.png'
+            name: 'Raider Stock',
+            image: '/attachments/stocks/raiderstock.png'
         },
-        {
-            name: 'test7',
-            image: '/attachments/gun/test.png'
-        }
     ];
 
 
