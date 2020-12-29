@@ -18,9 +18,9 @@ After making MWRandomClass I knew that I had to challenge myself to make one for
 
 
 ## Bug Reports
-Bug Reports can be submitted via the website as well as [here](https://mwrandomclass.com/contact.html)
+Bug Reports can be submitted via the website as well as [here](https://github.com/UJGA/ColdWarRandomClassGenerator/issues)
 
 ## Feature Requests
-Features can be requested [here](https://github.com/UJGA/MWRandomClassGenerator/issues)
+Features can be requested [here](https://github.com/UJGA/ColdWarRandomClassGenerator/issues)
 
 Please be sure to check the already requested features before submitting one to limit the amount of duplicates
