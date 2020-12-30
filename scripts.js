@@ -4,6 +4,10 @@ function random_item() {
 
     // Reset all Elements (Used for if user spamms generate button)
 
+    //Remove Updates
+    document.getElementById("myTitle").innerHTML = "";
+    // document.getElementById("goAgain").innerHTML = '<button id="mybtn" class="btn btn-primary" onclick="random_item();">Generate Again</button><br><br>';
+
     // Reset Primary
     document.getElementById("primaryH3").innerHTML = ""
     document.getElementById("primary").innerHTML = "";
