@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-.classContent{
+/* .classContent{
     background-color:rgba(255, 255, 255, 0.75);
     color: black;
     padding: 1%;
@@ -12,9 +12,10 @@
     width: 76%;
     height: 90%;
 
-}
+} */
 
 .randomClass{
+    background-color:rgba(255, 255, 255, 0.75);
     color: black;
     padding: 1%;
     margin-left: 12%;
@@ -22,6 +23,7 @@
     margin-top: 20px;
     width: 76%;
     height: 90%;
+    padding-bottom: 20px;
 }
 body{
     background-image: url("backgrounnd.jpg");
@@ -44,15 +46,14 @@ nav .navbar-nav li a{
     background-color:rgba(255, 255, 255, 0.75);
     color: black;
     padding: 1%;
-    background-color:rgba(255, 255, 255, 0.75);
     color: black;
     padding: 1%;
     margin-left: 12%;
     margin-right: 12%;
-    margin-top: 20px;;
+    /* margin-top: 20px;; */
     width: 76%;
     height: 90%;
-    margin-bottom: -300px;
+    /* margin-bottom: -300px; */
 }
 
 .myButton{
