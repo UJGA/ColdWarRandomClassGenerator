@@ -239,26 +239,26 @@ function lawbreaker() {
             break;
 
             //Launchers
-        case "Cigma 2":
-            cigma2LBP();
-            break;
-        case "RPG-7":
-            rpg7LBP();
-            break;
+        // case "Cigma 2":
+        //     cigma2LBP();
+        //     break;
+        // case "RPG-7":
+        //     rpg7LBP();
+        //     break;
 
-            //Mele
-        case "Knife":
-            knifeLBP();
-            break;
-        case "Sledgehammer":
-            sledgehammerLBP();
-            break;
-        case "Wakizashi":
-            wakizashiLBP();
-            break;
-        case "M79":
-            m79LBP();
-            break;
+        //     //Mele
+        // case "Knife":
+        //     knifeLBP();
+        //     break;
+        // case "Sledgehammer":
+        //     sledgehammerLBP();
+        //     break;
+        // case "Wakizashi":
+        //     wakizashiLBP();
+        //     break;
+        // case "M79":
+        //     m79LBP();
+        //     break;
     }
 
     switch (randomSecondary.name) {
@@ -284,27 +284,27 @@ function lawbreaker() {
             diamattiLB();
             break;
 
-            //Launchers
-        case "Cigma 2":
-            cigma2LB();
-            break;
-        case "RPG-7":
-            rpg7LB();
-            break;
+        //     //Launchers
+        // case "Cigma 2":
+        //     cigma2LB();
+        //     break;
+        // case "RPG-7":
+        //     rpg7LB();
+        //     break;
 
-            //Mele
-        case "Knife":
-            knifeLB();
-            break;
-        case "Sledgehammer":
-            sledgehammerLB();
-            break;
-        case "Wakizashi":
-            wakizashiLB();
-            break;
-        case "M79":
-            m79LB();
-            break;
+        //     //Mele
+        // case "Knife":
+        //     knifeLB();
+        //     break;
+        // case "Sledgehammer":
+        //     sledgehammerLB();
+        //     break;
+        // case "Wakizashi":
+        //     wakizashiLB();
+        //     break;
+        // case "M79":
+        //     m79LB();
+        //     break;
 
         case "XM4":
             xm4LBS();

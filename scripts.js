@@ -332,26 +332,26 @@ function random_item() {
             break;
 
             //Launchers
-        case "Cigma 2":
-            cigma2();
-            break;
-        case "RPG-7":
-            rpg7();
-            break;
+        // case "Cigma 2":
+        //     cigma2();
+        //     break;
+        // case "RPG-7":
+        //     rpg7();
+        //     break;
 
-            //Mele
-        case "Knife":
-            knife();
-            break;
-        case "Sledgehammer":
-            sledgehammer();
-            break;
-        case "Wakizashi":
-            wakizashi();
-            break;
-        case "M79":
-            m79();
-            break;
+        //     //Mele
+        // case "Knife":
+        //     knife();
+        //     break;
+        // case "Sledgehammer":
+        //     sledgehammer();
+        //     break;
+        // case "Wakizashi":
+        //     wakizashi();
+        //     break;
+        // case "M79":
+        //     m79();
+        //     break;
 
     }
 

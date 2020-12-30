@@ -19,9 +19,17 @@ body{
 }
 
 nav{
-    background-color: white;
+    background-color: black;
+    color: white !important; 
 }
 
+nav .navbar-nav li a{
+    color: white !important;
+    }
+
+    nav .navbar-nav li a:hover{
+        color: #ff8a00 !important;
+        }
 .updates{
     background-color:rgba(255, 255, 255, 0.75);
     color: black;
@@ -45,4 +53,17 @@ nav{
 
 .updateText{
     text-align: center;
+}
+
+.logo{
+    width: 50px;
+}
+
+.btn-primary, .btn-primary:active {
+    background-color: #ff8a00 !important;
+    border: 2px solid white !important;
+}
+
+.btn-primary:hover{
+    background-color: black !important;
 }
