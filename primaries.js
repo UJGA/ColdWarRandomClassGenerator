@@ -97,7 +97,7 @@ function xm4() {
             image: '/attachments/muzzles/flashguard556.png'
         },
         {
-            name: 'Suppressor', // NEED
+            name: 'Suppressor', //NEED
             image: '/attachments/muzzles/suppressor.png'
         },
         {
