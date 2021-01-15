@@ -46,7 +46,7 @@ function xm4() {
         },
         {
             name: 'Royal & Kross 4x', 
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', 
@@ -155,7 +155,7 @@ function xm4() {
         },
         {
             name: '13.7 Extended', 
-            image: '/attachments/barrels/127extended.png'
+            image: '/attachments/barrels/137extended.png'
         },
         {
             name: '13.7 Takedown', 
@@ -251,7 +251,7 @@ function xm4() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip',
@@ -517,7 +517,7 @@ function ak47() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -565,7 +565,7 @@ function ak47() {
         },
         {
             name: 'Flashguard 7.62', 
-            image: '/attachments/muzzles/flashguard7.62.png'
+            image: '/attachments/muzzles/flashguard762.png'
         },
         {
             name: 'Suppressor', //DONT NEED
@@ -722,7 +722,7 @@ function ak47() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -989,7 +989,7 @@ function krig6() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -1093,8 +1093,8 @@ function krig6() {
             image: '/attachments/barrels/177calalrylancer.png'
         },
         {
-            name: '16.5 Contour',
-            image: '/attachments/barrels/165contour.png'
+            name: '15.5 Contour',
+            image: '/attachments/barrels/155contour.png'
         },
         {
             name: '18.7 Ranger',
@@ -1194,7 +1194,7 @@ function krig6() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -1463,7 +1463,7 @@ function qbz83() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -1668,7 +1668,7 @@ function qbz83() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -1845,7 +1845,7 @@ function qbz83() {
         },
         {
             name: 'CQB Pad',  //DONT NEED
-            image: '/attachments/stocks/cqboad.png'
+            image: '/attachments/stocks/cqbpad.png'
         },
         {
             name: 'SAS Combat Stock',  //DONT NEED
@@ -1935,7 +1935,7 @@ function ffar1() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -2140,7 +2140,7 @@ function ffar1() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -2408,7 +2408,7 @@ function groza() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -2613,7 +2613,7 @@ function groza() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -2860,7 +2860,7 @@ function mp5() {
             image: '/attachments/optics/kobrareddot.png'
         },
         {
-            name: 'Visiontexh 2x', //DONT NEED
+            name: 'Visiontech 2x', //DONT NEED
             image: '/attachments/optics/visiontech2x.png'
         },
         {
@@ -2924,11 +2924,11 @@ function mp5() {
 
     var muzzles = [
         {
-            name: 'Muzzle Brake 9',  //NEED
+            name: 'Muzzle Brake 9',  
             image: '/attachments/muzzles/muzzlebrake9.png'
         },
         {
-            name: 'Flashguard 9',  //NEED
+            name: 'Flashguard 9',  
             image: '/attachments/muzzles/flashguard9.png'
         },
         {
@@ -2977,28 +2977,28 @@ function mp5() {
 
     var barrels = [
         {
-            name: '9.5 Extended', //NEED
+            name: '9.5 Extended', 
             image: '/attachments/barrels/95extended.png'
         },
         {
-            name: '10.1 Cavalry Lancer', //NEED
+            name: '10.1 Cavalry Lancer', 
             image: '/attachments/barrels/101cavalrylancer.png'
         },
         {
-            name: '9.5 Reinforced Heavy', //NEED
+            name: '9.5 Reinforced Heavy', 
             image: '/attachments/barrels/95reinforcedheavy.png'
         },
         {
-            name: '9.5 Ranger', //NEED
+            name: '9.5 Ranger', 
             image: '/attachments/barrels/95ranger.png'
         },
         {
-            name: '9.1 Rifled', //NEED
-            image: '/attachments/barrels/91 Rifled.png'
+            name: '9.1 Rifled', 
+            image: '/attachments/barrels/91Rifled.png'
         },
         {
-            name: '9.5 Task Force', //NEED
-            image: '/attachments/barrels/91taskforce.png'
+            name: '9.5 Task Force', 
+            image: '/attachments/barrels/95taskforce.png'
         },
     ];
 
@@ -3086,11 +3086,11 @@ function mp5() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
-            name: 'Red Cell Foregrip',  //NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            name: 'Red Cell Foregrip', 
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -3139,7 +3139,7 @@ function mp5() {
 
     var magazines = [
         {
-            name: '40 RND Drum',  //NEED
+            name: '40 RND Drum', 
             image: '/attachments/magazines/40rnddrum.png'
         },
         {
@@ -3151,7 +3151,7 @@ function mp5() {
             image: '/attachments/magazines/40rndspeedmag.png'
         },
         {
-            name: 'STANAG 50 Rnd Drum',  //NEED
+            name: 'STANAG 50 Rnd Drum', 
             image: '/attachments/magazines/stanag50rnddrum.png'
         },
         {
@@ -3254,7 +3254,7 @@ function mp5() {
             image: '/attachments/stocks/tacticalstock.png'
         },
         {
-            name: 'Collapsed Stock',  //NEED
+            name: 'Collapsed Stock',
             image: '/attachments/stocks/collapsedstock.png'
         },
         {
@@ -3450,23 +3450,23 @@ function milano821() {
 
     var barrels = [
         {
-            name: '8.9 Extended', //NEED
+            name: '8.9 Extended',
             image: '/attachments/barrels/89extended.png'
         },
         {
-            name: '9.5 Cavalry Lancer', //NEED
+            name: '9.5 Cavalry Lancer',
             image: '/attachments/barrels/95cavalrylancer.png'
         },
         {
-            name: '10.1 Reinforced', //NEED
+            name: '10.1 Reinforced',
             image: '/attachments/barrels/101reinforced.png'
         },
         {
-            name: '9.5 Rifled', //NEED
+            name: '9.5 Rifled',
             image: '/attachments/barrels/95rifled.png'
         },
         {
-            name: '10.6 Task Force', //NEED
+            name: '10.6 Task Force',
             image: '/attachments/barrels/106taskforce.png'
         },
     ];
@@ -3555,11 +3555,11 @@ function milano821() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -3608,15 +3608,15 @@ function milano821() {
 
     var magazines = [
         {
-            name: '45 Rnd Drum', //DONT NEED //NEED
+            name: '45 Rnd Drum', //DONT NEED 
             image: '/attachments/magazines/45rnddrum.png'
         },
         {
-            name: 'Fast Mag',  //DONT NEED //NEED
+            name: 'Fast Mag',  //DONT NEED
             image: '/attachments/magazines/fastmag.png'
         },
         {
-            name: '45 Rnd Speed Mag', //NEED
+            name: '45 Rnd Speed Mag',
             image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
@@ -3624,11 +3624,11 @@ function milano821() {
             image: '/attachments/magazines/stanag50rnddrum.png'
         },
         {
-            name: 'Vandal Speed Loader',  //DONT NEED //NEED
+            name: 'Vandal Speed Loader', 
             image: '/attachments/magazines/vandalspeedloader.png'
         },
         {
-            name: 'Salvo 55 Rnd Fast Mag', //NEED
+            name: 'Salvo 55 Rnd Fast Mag',
             image: '/attachments/magazines/salvo55rndfastmag.png'
         },
     ];
@@ -3919,27 +3919,27 @@ function ak74u() {
 
     var barrels = [
         {
-            name: '9.3 Extended', //NEED
+            name: '9.3 Extended',
             image: '/attachments/barrels/93extended.png'
         },
         {
-            name: '8.4 Cavalry Lancer', //NEED
+            name: '8.4 Cavalry Lancer',
             image: '/attachments/barrels/84cavalrylancer.png'
         },
         {
-            name: '9.3 VDV Reinforced', //NEED
+            name: '9.3 VDV Reinforced',
             image: '/attachments/barrels/93vdvreinforced.png'
         },
         {
-            name: '10.3 Liberator', //NEED
+            name: '10.3 Liberator',
             image: '/attachments/barrels/103liberator.png'
         },
         {
-            name: '8.4 Rifled', //NEED
+            name: '8.4 Rifled',
             image: '/attachments/barrels/84rifled.png'
         },
         {
-            name: '10.3 Task Force', //NEED
+            name: '10.3 Task Force',
             image: '/attachments/barrels/103taskforce.png'
         },
     ];
@@ -4028,11 +4028,11 @@ function ak74u() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -4340,11 +4340,11 @@ function ksp45() {
 
     var muzzles = [
         {
-            name: 'Muzzle Brake .45 APC', //NEED
+            name: 'Muzzle Brake .45 APC', 
             image: '/attachments/muzzles/muzzlebrake45apc.png'
         },
         {
-            name: 'Flashguard .45 APC', //NEED
+            name: 'Flashguard .45 APC', 
             image: '/attachments/muzzles/flashguard45apc.png'
         },
         {
@@ -4393,27 +4393,27 @@ function ksp45() {
 
     var barrels = [
         {
-            name: '8.9 Extended', //NEED
+            name: '8.9 Extended',
             image: '/attachments/barrels/89extended.png'
         },
         {
-            name: '9.6 Cavalry Lancer', //NEED
+            name: '9.6 Cavalry Lancer',
             image: '/attachments/barrels/96cavalrylancer.png'
         },
         {
-            name: '10.5 Reinforced Heavy', //NEED
+            name: '10.5 Reinforced Heavy',
             image: '/attachments/barrels/105reinforcedheavy.png'
         },
         {
-            name: '9.5 Ranger', //NEED
+            name: '9.5 Ranger',
             image: '/attachments/barrels/95ranger.png'
         },
         {
-            name: '10.2 Rifled', //NEED
+            name: '10.2 Rifled',
             image: '/attachments/barrels/102rifled.png'
         },
         {
-            name: '10.5 Task Force', //NEED
+            name: '10.5 Task Force',
             image: '/attachments/barrels/105taskforce.png'
         },
     ];
@@ -4501,12 +4501,12 @@ function ksp45() {
 
     var underbarrels = [
         {
-            name: 'Front Grip', //NEED
+            name: 'Front Grip', 
             image: '/attachments/underbarrel/frontgrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -4555,7 +4555,7 @@ function ksp45() {
 
     var magazines = [
         {
-            name: '42 RND', //NEED
+            name: '42 RND', 
             image: '/attachments/magazines/42rnd.png'
         },
         {
@@ -4563,19 +4563,19 @@ function ksp45() {
             image: '/attachments/magazines/fastmag.png'
         },
         {
-            name: '42 Rnd Speed Mag', //NEED
+            name: '42 Rnd Speed Mag', 
             image: '/attachments/magazines/42rndspeedmag.png'
         },
         {
-            name: 'STANAG 48 Rnd Drum', //NEED 
+            name: 'STANAG 48 Rnd Drum',  
             image: '/attachments/magazines/stanag48rnddrum.png'
         },
         {
-            name: 'Vandal Speed Loader',  //DONT NEED //NEED 
+            name: 'Vandal Speed Loader',  //DONT NEED  
             image: '/attachments/magazines/vandalspeedloader.png'
         },
         {
-            name: 'Salvo 48 Rnd Fast Mag', //NEED 
+            name: 'Salvo 48 Rnd Fast Mag',  
             image: '/attachments/magazines/salvo48rndfastmag.png'
         },
     ];
@@ -4864,27 +4864,27 @@ function bullfrog() {
 
     var barrels = [
         {
-            name: '7.1 Extended', //NEED
+            name: '7.1 Extended',
             image: '/attachments/barrels/71extended.png'
         },
         {
-            name: '7 Cavalry Lancer', //NEED
+            name: '7 Cavalry Lancer',
             image: '/attachments/barrels/7cavalrylancer.png'
         },
         {
-            name: '6.7 VDV Reinforced', //NEED
+            name: '6.7 VDV Reinforced',
             image: '/attachments/barrels/67vdvreinforced.png'
         },
         {
-            name: '8.1 Liberator', //NEED
+            name: '8.1 Liberator',
             image: '/attachments/barrels/81liberator.png'
         },
         {
-            name: '7.6 Rifled', //NEED
+            name: '7.6 Rifled',
             image: '/attachments/barrels/76rifled.png'
         },
         {
-            name: '7.4 Task Force', //NEED
+            name: '7.4 Task Force',
             image: '/attachments/barrels/74taskforce.png'
         },
     ];
@@ -4973,11 +4973,11 @@ function bullfrog() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -5026,7 +5026,7 @@ function bullfrog() {
 
     var magazines = [
         {
-            name: '65 Rnd', //NEED
+            name: '65 Rnd', 
             image: '/attachments/magazines/65rnd.png'
         },
         {
@@ -5034,19 +5034,19 @@ function bullfrog() {
             image: '/attachments/magazines/fastmag.png'
         },
         {
-            name: '65 Rnd Speed Mag', //NEED
+            name: '65 Rnd Speed Mag', 
             image: '/attachments/magazines/65rndspeedmag.png'
         },
         {
-            name: 'STANAG 85 Rnd', //NEED
+            name: 'STANAG 85 Rnd', 
             image: '/attachments/magazines/stanag85rnd.png'
         },
         {
-            name: 'Vandal Speed Loader',  //DONT NEED //NEED
+            name: 'Vandal Speed Loader',  //DONT NEED 
             image: '/attachments/magazines/vandalspeedloader.png'
         },
         {
-            name: 'VDV 85 Rnd Fast Mag', //NEED
+            name: 'VDV 85 Rnd Fast Mag', 
             image: '/attachments/magazines/vdv85rndfastmag.png'
         },
     ];
@@ -5337,27 +5337,27 @@ function mac10() {
 
     var barrels = [
         {
-            name: '5.3 Extended', //NEED
+            name: '5.3 Extended', 
             image: '/attachments/barrels/53extended.png'
         },
         {
-            name: '6.5 Cavalry Lancer', //NEED
+            name: '6.5 Cavalry Lancer', 
             image: '/attachments/barrels/65cavalrylancer.png'
         },
         {
-            name: '6.1 Reinforced Heavy', //NEED
+            name: '6.1 Reinforced Heavy', 
             image: '/attachments/barrels/61reinforcedheavy.png'
         },
         {
-            name: '5.3 Ranger', //NEED
+            name: '5.3 Ranger', 
             image: '/attachments/barrels/53ranger.png'
         },
         {
-            name: '6.5 Rifled', //NEED
+            name: '6.5 Rifled', 
             image: '/attachments/barrels/65rifled.png'
         },
         {
-            name: '5.9 Task Force', //NEED
+            name: '5.9 Task Force', 
             image: '/attachments/barrels/59taskforce.png'
         },
     ];
@@ -5446,11 +5446,11 @@ function mac10() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -5499,7 +5499,7 @@ function mac10() {
 
     var magazines = [
         {
-            name: '43 Rnd Drum', //NEED
+            name: '43 Rnd Drum', 
             image: '/attachments/magazines/43rnddrum.png'
         },
         {
@@ -5507,19 +5507,19 @@ function mac10() {
             image: '/attachments/magazines/fastmag.png'
         },
         {
-            name: '43 Rnd Speed Mag', //NEED
+            name: '43 Rnd Speed Mag', 
             image: '/attachments/magazines/43rndspeedmag.png'
         },
         {
-            name: 'STANAG 53 Rnd Drum', //NEED
+            name: 'STANAG 53 Rnd Drum', 
             image: '/attachments/magazines/stanag53rnddrum.png'
         },
         {
-            name: 'Vandal Speed Loader',  //DONT NEED //NEED
+            name: 'Vandal Speed Loader',  //DONT NEED 
             image: '/attachments/magazines/vandalspeedloader.png'
         },
         {
-            name: 'Salvo 53 Rnd Fast Mag', //NEED
+            name: 'Salvo 53 Rnd Fast Mag', 
             image: '/attachments/magazines/salvo53rndfastmag.png'
         },
     ];
@@ -5717,11 +5717,11 @@ function type63() {
             image: '/attachments/optics/susatmultizoom.png'
         },
         {
-            name: 'Hangman RF',  //NEED
+            name: 'Hangman RF',  
             image: '/attachments/optics/hangmanrf.png'
         },
         {
-            name: 'Vulture Custom Zoom',  //NEED
+            name: 'Vulture Custom Zoom',  
             image: '/attachments/optics/vulturecustomzoom.png'
         },
 
@@ -5767,7 +5767,7 @@ function type63() {
             image: '/attachments/muzzles/flashguard762.png'
         },
         {
-            name: 'Silencer',  //NEED
+            name: 'Silencer',  
             image: '/attachments/muzzles/silencer.png'
         },
         {
@@ -5779,7 +5779,7 @@ function type63() {
             image: '/attachments/muzzles/kgbeliminator.png'
         },
         {
-            name: 'GRU Silencer', //NEED
+            name: 'GRU Silencer', 
             image: '/attachments/muzzles/grusilencer.png'
         },
     ];
@@ -5812,27 +5812,27 @@ function type63() {
 
     var barrels = [
         {
-            name: '16.4 Rapid Fire', //NEED
+            name: '16.4 Rapid Fire',
             image: '/attachments/barrels/164rapidfire.png'
         },
         {
-            name: '18.3 Cavalry Lancer', //NEED
+            name: '18.3 Cavalry Lancer',
             image: '/attachments/barrels/183cavalrylancer.png'
         },
         {
-            name: '18.3 Strike Team', //NEED
+            name: '18.3 Strike Team',
             image: '/attachments/barrels/183striketeam.png'
         },
         {
-            name: '16.4 Titanium', //NEED
+            name: '16.4 Titanium',
             image: '/attachments/barrels/164titanium.png'
         },
         {
-            name: '21.5 Match Grade', //NEED
+            name: '21.5 Match Grade',
             image: '/attachments/barrels/215matchgrade.png'
         },
         {
-            name: '21.5 Task Force', //NEED
+            name: '21.5 Task Force',
             image: '/attachments/barrels/215taskforce.png'
         },
     ];
@@ -5936,8 +5936,8 @@ function type63() {
             image: '/attachments/underbarrel/bruisergrip.png'
         },
         {
-            name: 'Spetsnaz Ergonomic Grip', //NEED
-            image: '/attachments/underbarrel/spetsnazergonomicgrip.png'
+            name: 'Spetsnaz Grip', 
+            image: '/attachments/underbarrel/spetsnazgrip.png'
         },
         {
             name: 'Spetsnaz Speedgrip', //DONT NEED
@@ -5974,7 +5974,7 @@ function type63() {
 
     var magazines = [
         {
-            name: '30 Rnd',  //DONT NEED //NEED
+            name: '30 Rnd',  //DONT NEED
             image: '/attachments/magazines/30rnd.png'
         },
         {
@@ -5982,11 +5982,11 @@ function type63() {
             image: '/attachments/magazines/tapedmags.png'
         },
         {
-            name: '30 Rnd Speed Mag', //DONT NEED //NEED
+            name: '30 Rnd Speed Mag', //DONT NEED
             image: '/attachments/magazines/30rndspeedmag.png'
         },
         {
-            name: 'Bakelite 35 Rnd', //NEED
+            name: 'Bakelite 35 Rnd',
             image: '/attachments/magazines/bakelite35rnd.png'
         },
         {
@@ -6201,7 +6201,7 @@ function m16() {
         },
 
         {
-            name: 'AN/PVS-4 Thermal', //NEED
+            name: 'AN/PVS-4 Thermal',
             image: '/attachments/optics/anpvs4thermal.png'
         },
 
@@ -6254,7 +6254,7 @@ function m16() {
             image: '/attachments/muzzles/socomeliminator.png'
         },
         {
-            name: 'Agency Silencer', //NEED
+            name: 'Agency Silencer', 
             image: '/attachments/muzzles/agencysilencer.png'
         },
     ];
@@ -6287,27 +6287,27 @@ function m16() {
 
     var barrels = [
         {
-            name: '16.3 Rapid Fire', //NEED
+            name: '16.3 Rapid Fire',
             image: '/attachments/barrels/163rapidfire.png'
         },
         {
-            name: '15.9 Cavalry Lancer', //NEED
+            name: '15.9 Cavalry Lancer',
             image: '/attachments/barrels/159cavalrylancer.png'
         },
         {
-            name: '15.9 Strike Team', //NEED
+            name: '15.9 Strike Team',
             image: '/attachments/barrels/159striketeam.png'
         },
         {
-            name: '16.3 Titanium', //NEED
+            name: '16.3 Titanium',
             image: '/attachments/barrels/163titanium.png'
         },
         {
-            name: '20.5 Match Grade', //NEED
+            name: '20.5 Match Grade',
             image: '/attachments/barrels/205matchgrade.png'
         },
         {
-            name: '20.5 Task Force', //NEED
+            name: '20.5 Task Force',
             image: '/attachments/barrels/205taskforce.png'
         },
     ];
@@ -6449,28 +6449,24 @@ function m16() {
 
     var magazines = [
         {
-            name: '35 Rnd',  //NEED
-            image: '/attachments/magazines/35rnd.png'
+            name: '45 Rnd', 
+            image: '/attachments/magazines/45rnd.png'
         },
         {
             name: 'Jungle-Style Mag', //DONT NEED
             image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: '35 Rnd Speed Mag', //DONT NEED //NEED
-            image: '/attachments/magazines/35rndspeedmag.png'
+            name: '45 Rnd Speed Mag', //DONT NEED
+            image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
-            name: 'STANAG 54 Rnd', //NEED
+            name: 'STANAG 54 Rnd',
             image: '/attachments/magazines/stanag54rnd.png'
         },
         {
             name: 'SAS Mag Clamp',  //DONT NEED
             image: '/attachments/magazines/sasmagclamp.png'
-        },
-        {
-            name: 'Agency Silencer', //NEED
-            image: '/attachments/magazines/salvo54rndfastmag.png'
         },
     ];
 
@@ -6572,7 +6568,7 @@ function m16() {
             image: '/attachments/stocks/dusterstock.png'
         },
         {
-            name: 'Buffer Tube', //NEED
+            name: 'Buffer Tube', 
             image: '/attachments/stocks/buffertube.png'
         },
         {
@@ -6677,7 +6673,7 @@ function aug() {
 
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
-            image: '/attachments/optics/anpsv4thermal.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -6762,27 +6758,27 @@ function aug() {
 
     var barrels = [
         {
-            name: '18 Rapid Fire', //NEED
+            name: '18 Rapid Fire',
             image: '/attachments/barrels/18rapidfire.png'
         },
         {
-            name: '17.9 Cavalry Lancer', //NEED
+            name: '17.9 Cavalry Lancer',
             image: '/attachments/barrels/179cavalrylancer.png'
         },
         {
-            name: '18.2 Strike Team', //NEED
+            name: '18.2 Strike Team',
             image: '/attachments/barrels/182striketeam.png'
         },
         {
-            name: '17 Titanium', //NEED
+            name: '17 Titanium',
             image: '/attachments/barrels/17titanium.png'
         },
         {
-            name: '19.6 Match Grade', //NEED
+            name: '19.6 Match Grade',
             image: '/attachments/barrels/196matchgrade.png'
         },
         {
-            name: '19.8 Task Force', //NEED
+            name: '19.8 Task Force',
             image: '/attachments/barrels/198taskforce.png'
         },
     ];
@@ -6924,19 +6920,19 @@ function aug() {
 
     var magazines = [
         {
-            name: '45 Rnd Drum', //NEED
+            name: '45 Rnd Drum', 
             image: '/attachments/magazines/45rnddrum.png'
         },
         {
-            name: 'Jungle-Style Mags', //NEED
+            name: 'Jungle-Style Mags', 
             image: '/attachments/magazines/junglestylemags.png'
         },
         {
-            name: '35 Rnd Speed Mag', //NEED
-            image: '/attachments/magazines/35rndspeedmag.png'
+            name: '45 Rnd Speed Mag',
+            image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
-            name: 'STANAG 54 Rnd Drum', //NEED
+            name: 'STANAG 54 Rnd Drum',
             image: '/attachments/magazines/stanag54rnddrum.png'
         },
         {
@@ -7238,27 +7234,27 @@ function dmr14() {
 
     var barrels = [
         {
-            name: '17 Rapid Fire', //NEED
+            name: '17 Rapid Fire',
             image: '/attachments/barrels/17rapidfire.png'
         },
         {
-            name: '17.1 Cavalry Lancer', //NEED
+            name: '17.1 Cavalry Lancer',
             image: '/attachments/barrels/171cavalrylancer.png'
         },
         {
-            name: '17.1 Strike Team', //NEED
+            name: '17.1 Strike Team',
             image: '/attachments/barrels/171striketeam.png'
         },
         {
-            name: '16.3 Titanium', //NEED
+            name: '16.3 Titanium',
             image: '/attachments/barrels/163titanium.png'
         },
         {
-            name: '20.8 Match Grade', //NEED
+            name: '20.8 Match Grade',
             image: '/attachments/barrels/208matchgrade.png'
         },
         {
-            name: '20.8 Task Force', //NEED
+            name: '20.8 Task Force',
             image: '/attachments/barrels/208taskforce.png'
         },
     ];
@@ -7400,7 +7396,7 @@ function dmr14() {
 
     var magazines = [
         {
-            name: '30 Rnd',  //NEED
+            name: '30 Rnd', 
             image: '/attachments/magazines/30rnd.png'
         },
         {
@@ -7408,11 +7404,11 @@ function dmr14() {
             image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: '30 Rnd Speed Mag', //NEED
+            name: '30 Rnd Speed Mag',
             image: '/attachments/magazines/30rndspeedmag.png'
         },
         {
-            name: 'STANAG 35 Rnd', //NEED
+            name: 'STANAG 35 Rnd', 
             image: '/attachments/magazines/stanag35rnd.png'
         },
         {
@@ -7420,7 +7416,7 @@ function dmr14() {
             image: '/attachments/magazines/sasmagclamp.png'
         },
         {
-            name: 'Salvo 35 Rnd Fast Mag', //NEED
+            name: 'Salvo 35 Rnd Fast Mag', 
             image: '/attachments/magazines/salvo35rndfastmag.png'
         },
     ];
@@ -7878,7 +7874,7 @@ function stoner63() {
 
     var magazines = [
         {
-            name: '100 Rnd', //NEED
+            name: '100 Rnd',
             image: '/attachments/magazines/100rnd.png'
         },
         {
@@ -7886,19 +7882,19 @@ function stoner63() {
             image: '/attachments/magazines/fastmag.png'
         },
         {
-            name: '100 Rnd Speed Mag', //NEED
+            name: '100 Rnd Speed Mag',
             image: '/attachments/magazines/100rndspeedmag.png'
         },
         {
-            name: 'Spetsnaz 125 Rnd', //NEED
+            name: 'Spetsnaz 125 Rnd',
             image: '/attachments/magazines/spetsnaz125rnd.png'
         },
         {
-            name: 'Vandal Speed Loader',  //NEED
+            name: 'Vandal Speed Loader', 
             image: '/attachments/magazines/vandalspeedloader.png'
         },
         {
-            name: 'Salvo 125 Rnd Fast Mag', //NEED
+            name: 'Salvo 125 Rnd Fast Mag',
             image: '/attachments/magazines/salvo124rndfastmag.png'
         },
     ];
@@ -8191,27 +8187,28 @@ function rpd() {
 
     var barrels = [
         {
-            name: '16.5 Cut Down', //NEED
+            name: '16.5 Cut Down',
             image: '/attachments/barrels/165cutdown.png'
         },
         {
-            name: '16.5 Spetsnaz RPK Barrel', //NEED
+            name: '16.5 Spetsnaz RPK Barrel',
             image: '/attachments/barrels/165spetsnazrpkbarrel.png'
         },
         {
-            name: '16.5 Division', //NEED
+            name: '16.5 Division',
             image: '/attachments/barrels/165division.png'
+
         },
         {
-            name: '14.7 GRU Cut Down', //NEED
+            name: '14.7 GRU Cut Down',
             image: '/attachments/barrels/147grucutdown.png'
         },
         {
-            name: '20.3 Match Grade', //NEED
+            name: '20.3 Match Grade',
             image: '/attachments/barrels/203matchgrade.png'
         },
         {
-            name: '20.3 Task Force', //NEED
+            name: '20.3 Task Force',
             image: '/attachments/barrels/203taskforce.png'
         },
     ];
@@ -8373,7 +8370,7 @@ function rpd() {
             image: '/attachments/magazines/vandalspeedloader.png'
         },
         {
-            name: 'VDV 125 Rnd Fast Mag', //NEED
+            name: 'VDV 125 Rnd Fast Mag', 
             image: '/attachments/magazines/vdv125rndfastmag.png'
         },
     ];
@@ -8670,27 +8667,27 @@ function m60() {
 
     var barrels = [
         {
-            name: '18 Cut Down', //NEED
+            name: '18 Cut Down',
             image: '/attachments/barrels/18cutdown.png'
         },
         {
-            name: '18.9 Cavalry Lancer', //NEED
+            name: '18.9 Cavalry Lancer',
             image: '/attachments/barrels/189cavalrylancer.png'
         },
         {
-            name: '18.9 Division', //NEED
+            name: '18.9 Division',
             image: '/attachments/barrels/189division.png'
         },
         {
-            name: '17.5 SOR Cut Down', //NEED
+            name: '17.5 SOR Cut Down',
             image: '/attachments/barrels/175sorcutdown.png'
         },
         {
-            name: '22.8 Match Grade', //NEED
+            name: '22.8 Match Grade',
             image: '/attachments/barrels/228matchgrade.png'
         },
         {
-            name: '22.8 Task Force', //NEED
+            name: '22.8 Task Force',
             image: '/attachments/barrels/228taskforce.png'
         },
     ];
@@ -8844,7 +8841,7 @@ function m60() {
             image: '/attachments/magazines/100rndspeedmag.png'
         },
         {
-            name: 'STANAG 125 Rnd', //NEED
+            name: 'STANAG 125 Rnd',
             image: '/attachments/magazines/stanag125rnd.png'
         },
         {
@@ -8948,7 +8945,7 @@ function m60() {
         },
         {
             name: 'Marathon Stock',  //DONT NEED
-            image: '/attachments/stocks/marathon.png'
+            image: '/attachments/stocks/marathonstock.png'
         },
         {
             name: 'Duster Stock', //DONT NEED
@@ -9026,7 +9023,7 @@ function pelington703() {
             image: '/attachments/optics/axialarms3x.png'
         },
         {
-            name: 'Iron Sights', //NEED
+            name: 'Iron Sights', 
             image: '/attachments/optics/ironsights.png'
         },
         {
@@ -9054,12 +9051,12 @@ function pelington703() {
             image: '/attachments/optics/hangmanrf.png'
         },
         {
-            name: 'Ultrazoom Custom', //NEED
+            name: 'Ultrazoom Custom', 
             image: '/attachments/optics/untrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
-            image: '/attachments/optics/anpvs4.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -9091,23 +9088,23 @@ function pelington703() {
 
     var muzzles = [
         {
-            name: 'Stabilizer .308', //NEED
+            name: 'Stabilizer .308',
             image: '/attachments/muzzles/stabilizer308.png'
         },
         {
-            name: 'Flash Hider .308', //NEED
-            image: '/attachments/muzzles/flashider308.png'
+            name: 'Flash Hider .308',
+            image: '/attachments/muzzles/flashhider308.png'
         },
         {
-            name: 'Sound Moderator', //NEED
+            name: 'Sound Moderator',
             image: '/attachments/muzzles/soundmoderator.png'
         },
         {
-            name: 'Infantry Stabilizer', //NEED
+            name: 'Infantry Stabilizer',
             image: '/attachments/muzzles/infantrystabilizer.png'
         },
         {
-            name: 'Task Force Shroud', //NEED
+            name: 'Task Force Shroud',
             image: '/attachments/muzzles/taskforceshroud.png'
         },
         {
@@ -9144,27 +9141,27 @@ function pelington703() {
 
     var barrels = [
         {
-            name: '25 Extended', //NEED
+            name: '25 Extended',
             image: '/attachments/barrels/25extended.png'
         },
         {
-            name: '23.3 Cavalry Lancer', //NEED
+            name: '23.3 Cavalry Lancer',
             image: '/attachments/barrels/233cavalrylancer.png'
         },
         {
-            name: '25 Reinforced Heavy', //NEED
+            name: '25 Reinforced Heavy',
             image: '/attachments/barrels/25reinforcedheavy.png'
         },
         {
-            name: '27.3 Combat Recon', //NEED
+            name: '27.3 Combat Recon',
             image: '/attachments/barrels/273combatrecon.png'
         },
         {
-            name: '21.7 Ultralight', //NEED
+            name: '21.7 Ultralight',
             image: '/attachments/barrels/217ultralight.png'
         },
         {
-            name: '26.5 Tiger Team', //NEED
+            name: '26.5 Tiger Team',
             image: '/attachments/barrels/265tigerteam.png'
         },
     ];
@@ -9268,7 +9265,7 @@ function pelington703() {
             image: '/attachments/underbarrel/bruisergrip.png'
         },
         {
-            name: 'Bipod',  //NEED
+            name: 'Bipod', 
             image: '/attachments/underbarrel/bipod.png'
         },
         {
@@ -9306,19 +9303,19 @@ function pelington703() {
 
     var magazines = [
         {
-            name: '7 Rnd',  //NEED
+            name: '7 Rnd',
             image: '/attachments/magazines/7rnd.png'
         },
         {
-            name: 'Fast Loader', //NEED
+            name: 'Fast Loader',
             image: '/attachments/magazines/fastloader.png'
         },
         {
-            name: '7 Rnd Speed Mag',  //NEED
+            name: '7 Rnd Speed Mag',
             image: '/attachments/magazines/7rndspeedmag.png'
         },
         {
-            name: 'STANAG 9 Rnd',  //NEED
+            name: 'STANAG 9 Rnd',
             image: '/attachments/magazines/stanag9rnd.png'
         },
         {
@@ -9326,7 +9323,7 @@ function pelington703() {
             image: '/attachments/magazines/vandalspeedloader.png'
         },
         {
-            name: 'Salvo 9 Rnd Fast Mag',  //NEED
+            name: 'Salvo 9 Rnd Fast Mag',
             image: '/attachments/magazines/salvo9rndfastmag.png'
         },
     ];
@@ -9383,7 +9380,7 @@ function pelington703() {
             image: '/attachments/handles/serpentwrap.png'
         },
         {
-            name: 'Airbone Elastic Wrap',  //NEED
+            name: 'Airbone Elastic Wrap', 
             image: '/attachments/handles/airborneelasticwrap.png'
         },
     ];
@@ -9533,7 +9530,7 @@ function lw3tundra() {
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
-            image: '/attachments/optics/anpvs4.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -9570,7 +9567,7 @@ function lw3tundra() {
         },
         {
             name: 'Flash Hider .308', //DONT NEED
-            image: '/attachments/muzzles/flashider308.png'
+            image: '/attachments/muzzles/flashhider308.png'
         },
         {
             name: 'Sound Moderator', //DONT NEED
@@ -9618,27 +9615,27 @@ function lw3tundra() {
 
     var barrels = [
         {
-            name: '28.2 Extended', //NEED
+            name: '28.2 Extended',
             image: '/attachments/barrels/282extended.png'
         },
         {
-            name: '26.5 Cavalry Lancer', //NEED
+            name: '26.5 Cavalry Lancer',
             image: '/attachments/barrels/265cavalrylancer.png'
         },
         {
-            name: '26.8 Rapid Fire', //NEED
+            name: '26.8 Rapid Fire',
             image: '/attachments/barrels/268rapidfire.png'
         },
         {
-            name: '29.1 Combat Recon', //NEED
+            name: '29.1 Combat Recon',
             image: '/attachments/barrels/291combatrecon.png'
         },
         {
-            name: '26.5 Hammered Forged', //NEED
+            name: '26.5 Hammered Forged',
             image: '/attachments/barrels/265hammeredforged.png'
         },
         {
-            name: '28.2 Tiger Team', //NEED
+            name: '28.2 Tiger Team',
             image: '/attachments/barrels/282tigerteam.png'
         },
     ];
@@ -10007,7 +10004,7 @@ function m82() {
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
-            image: '/attachments/optics/anpvs4.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -10039,12 +10036,12 @@ function m82() {
 
     var muzzles = [
         {
-            name: 'Stabilizer .50 BMG', //NEED
+            name: 'Stabilizer .50 BMG', 
             image: '/attachments/muzzles/stabilizer50bmg.png'
         },
         {
-            name: 'Flash Hider .50 BMG', //NEED
-            image: '/attachments/muzzles/flashider50bmg.png'
+            name: 'Flash Hider .50 BMG', 
+            image: '/attachments/muzzles/flashhider50bmg.png'
         },
         {
             name: 'Sound Moderator', //DONT NEED
@@ -10092,27 +10089,27 @@ function m82() {
 
     var barrels = [
         {
-            name: '22.2 Extended', //NEED
+            name: '22.2 Extended',
             image: '/attachments/barrels/222extended.png'
         },
         {
-            name: '21.8 Cavalry Lancer', //NEED
+            name: '21.8 Cavalry Lancer',
             image: '/attachments/barrels/218cavalrylancer.png'
         },
         {
-            name: '20.6 Rapid Fire', //NEED
+            name: '20.6 Rapid Fire',
             image: '/attachments/barrels/206rapidfire.png'
         },
         {
-            name: '22.6 Combat Recon', //NEED
+            name: '22.6 Combat Recon',
             image: '/attachments/barrels/226combatrecon.png'
         },
         {
-            name: '19.5 Ultralight', //NEED
+            name: '19.5 Ultralight',
             image: '/attachments/barrels/195ultralight.png'
         },
         {
-            name: '22.6 Tiger Team', //NEED
+            name: '22.6 Tiger Team',
             image: '/attachments/barrels/226tigerteam.png'
         },
     ];
@@ -10165,7 +10162,7 @@ function m82() {
             image: '/attachments/bodys/tigerteamspotlight.png'
         },
         {
-            name: 'Ember Sighting Point', //NEED
+            name: 'Ember Sighting Point', 
             image: '/attachments/bodys/embersightingpoint.png'
         },
     ];
