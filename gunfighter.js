@@ -155,7 +155,7 @@ function xm4w() {
         },
         {
             name: '13.7 Extended',
-            image: '/attachments/barrels/127extended.png'
+            image: '/attachments/barrels/137extended.png'
         },
         {
             name: '13.7 Takedown',
@@ -3458,8 +3458,8 @@ function milano821w() {
             image: '/attachments/barrels/95cavalrylancer.png'
         },
         {
-            name: '10.1 Reinforced',
-            image: '/attachments/barrels/101reinforced.png'
+            name: '10.1 Reinforced Heavy',
+            image: '/attachments/barrels/101reinforcedheavy.png'
         },
         {
             name: '9.5 Rifled',
@@ -6449,27 +6449,27 @@ function m16w() {
 
     var magazines = [
         {
-            name: '35 Rnd',
-            image: '/attachments/magazines/35rnd.png'
+            name: '45 Rnd', 
+            image: '/attachments/magazines/45rnd.png'
         },
         {
-            name: 'Jungle-Style Mag',
+            name: 'Jungle-Style Mag', //DONT NEED
             image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: '35 Rnd Speed Mag',
-            image: '/attachments/magazines/35rndspeedmag.png'
+            name: '45 Rnd Speed Mag', //DONT NEED
+            image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
             name: 'STANAG 54 Rnd',
             image: '/attachments/magazines/stanag54rnd.png'
         },
         {
-            name: 'SAS Mag Clamp',
+            name: 'SAS Mag Clamp',  //DONT NEED
             image: '/attachments/magazines/sasmagclamp.png'
         },
         {
-            name: 'Salvo 54 Rnd Fast Mag',
+            name: 'SALVO 54 RND Fast Mag',  //DONT NEED
             image: '/attachments/magazines/salvo54rndfastmag.png'
         },
     ];
@@ -6928,8 +6928,8 @@ function augw() {
             image: '/attachments/magazines/45rnddrum.png'
         },
         {
-            name: 'Jungle-Style Mags',
-            image: '/attachments/magazines/junglestylemags.png'
+            name: 'Jungle-Style Mag',
+            image: '/attachments/magazines/junglestylemag.png'
         },
         {
             name: '35 Rnd Speed Mag',
@@ -8196,11 +8196,12 @@ function rpdw() {
         },
         {
             name: '16.5 Spetsnaz RPK Barrel',
-            image: '/attachments/barrels/test.png'
+            image: '/attachments/barrels/165spetsnazrpkbarrel.png'
         },
         {
             name: '16.5 Division',
             image: '/attachments/barrels/165division.png'
+
         },
         {
             name: '14.7 GRU Cut Down',

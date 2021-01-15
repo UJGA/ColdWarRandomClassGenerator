@@ -3458,8 +3458,8 @@ function milano821() {
             image: '/attachments/barrels/95cavalrylancer.png'
         },
         {
-            name: '10.1 Reinforced',
-            image: '/attachments/barrels/101reinforced.png'
+            name: '10.1 Reinforced Heavy',
+            image: '/attachments/barrels/101reinforcedheavy.png'
         },
         {
             name: '9.5 Rifled',
@@ -6468,6 +6468,10 @@ function m16() {
             name: 'SAS Mag Clamp',  //DONT NEED
             image: '/attachments/magazines/sasmagclamp.png'
         },
+        {
+            name: 'SALVO 54 RND Fast Mag',  //DONT NEED
+            image: '/attachments/magazines/salvo54rndfastmag.png'
+        },
     ];
 
 
@@ -6924,8 +6928,8 @@ function aug() {
             image: '/attachments/magazines/45rnddrum.png'
         },
         {
-            name: 'Jungle-Style Mags', 
-            image: '/attachments/magazines/junglestylemags.png'
+            name: 'Jungle-Style Mag', 
+            image: '/attachments/magazines/junglestylemag.png'
         },
         {
             name: '45 Rnd Speed Mag',

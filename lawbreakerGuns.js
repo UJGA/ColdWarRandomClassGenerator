@@ -46,7 +46,7 @@ function xm4LB() {
         },
         {
             name: 'Royal & Kross 4x', //NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //NEED
@@ -155,7 +155,7 @@ function xm4LB() {
         },
         {
             name: '13.7 Extended', //NEED
-            image: '/attachments/barrels/127extended.png'
+            image: '/attachments/barrels/137extended.png'
         },
         {
             name: '13.7 Takedown', //NEED
@@ -517,7 +517,7 @@ function ak47LB() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -989,7 +989,7 @@ function krig6LB() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -1463,7 +1463,7 @@ function qbz83LB() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -1935,7 +1935,7 @@ function ffar1LB() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -2408,7 +2408,7 @@ function grozaLB() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -3458,8 +3458,8 @@ function milano821LB() {
             image: '/attachments/barrels/95cavalrylancer.png'
         },
         {
-            name: '10.1 Reinforced', //NEED
-            image: '/attachments/barrels/101reinforced.png'
+            name: '10.1 Reinforced Heavy', //NEED
+            image: '/attachments/barrels/101reinforcedheavy.png'
         },
         {
             name: '9.5 Rifled', //NEED
@@ -6468,6 +6468,10 @@ function m16LB() {
             name: 'SAS Mag Clamp',  //DONT NEED
             image: '/attachments/magazines/sasmagclamp.png'
         },
+        {
+            name: 'SALVO 54 RND Fast Mag',  //DONT NEED
+            image: '/attachments/magazines/salvo54rndfastmag.png'
+        },
     ];
 
 
@@ -6925,7 +6929,7 @@ function augLB() {
         },
         {
             name: 'Jungle-Style Mags', //NEED
-            image: '/attachments/magazines/junglestylemags.png'
+            image: '/attachments/magazines/junglestylemag.png'
         },
         {
             name: '35 Rnd Speed Mag', //NEED
@@ -10462,7 +10466,7 @@ function xm4LBS() {
         },
         {
             name: 'Royal & Kross 4x', //NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //NEED
@@ -10571,7 +10575,7 @@ function xm4LBS() {
         },
         {
             name: '13.7 Extended', //NEED
-            image: '/attachments/barrels/127extended.png'
+            image: '/attachments/barrels/137extended.png'
         },
         {
             name: '13.7 Takedown', //NEED
@@ -10933,7 +10937,7 @@ function ak47LBS() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -11405,7 +11409,7 @@ function krig6LBS() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -11879,7 +11883,7 @@ function qbz83LBS() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -12351,7 +12355,7 @@ function ffar1LBS() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -12824,7 +12828,7 @@ function grozaLBS() {
         },
         {
             name: 'Royal & Kross 4x', //DONT NEED
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom', //DONT NEED
@@ -13874,8 +13878,8 @@ function milano821LBS() {
             image: '/attachments/barrels/95cavalrylancer.png'
         },
         {
-            name: '10.1 Reinforced', //NEED
-            image: '/attachments/barrels/101reinforced.png'
+            name: '10.1 Reinforced Heavy', //NEED
+            image: '/attachments/barrels/101reinforcedheavy.png'
         },
         {
             name: '9.5 Rifled', //NEED
@@ -16884,6 +16888,10 @@ function m16LBS() {
             name: 'SAS Mag Clamp',  //DONT NEED
             image: '/attachments/magazines/sasmagclamp.png'
         },
+        {
+            name: 'SALVO 54 RND Fast Mag',  //DONT NEED
+            image: '/attachments/magazines/salvo54rndfastmag.png'
+        },
     ];
 
 
@@ -17340,8 +17348,8 @@ function augLBS() {
             image: '/attachments/magazines/45rnddrum.png'
         },
         {
-            name: 'Jungle-Style Mags', //NEED
-            image: '/attachments/magazines/junglestylemags.png'
+            name: 'Jungle-Style Mag', //NEED
+            image: '/attachments/magazines/.png'
         },
         {
             name: '35 Rnd Speed Mag', //NEED
@@ -24201,10 +24209,7 @@ function p1911LBP() {
             name: 'SOCOM Eliminator',
             image: '/attachments/muzzles/socomeliminator.png'
         },
-        {
-            name: 'Agency Suppressor',
-            image: '/attachments/muzzles/test.png'
-        },
+
     ];
 
 
