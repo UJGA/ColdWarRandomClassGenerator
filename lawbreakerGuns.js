@@ -2048,7 +2048,7 @@ function ffar1LB() {
         },
         {
             name: '20.3 Takedown', //NEED
-            image: '/attachments/barrels/20.3takedown.png'
+            image: '/attachments/barrels/203takedown.png'
         },
         {
             name: '19.5 Task Force', //NEED
@@ -2998,7 +2998,7 @@ function mp5LB() {
         },
         {
             name: '9.5 Task Force', //NEED
-            image: '/attachments/barrels/91taskforce.png'
+            image: '/attachments/barrels/95taskforce.png'
         },
     ];
 
@@ -5936,8 +5936,8 @@ function type63LB() {
             image: '/attachments/underbarrel/bruisergrip.png'
         },
         {
-            name: 'Spetsnaz Ergonomic Grip', //NEED
-            image: '/attachments/underbarrel/spetsnazergonomicgrip.png'
+            name: 'Spetsnaz Grip', //NEED
+            image: '/attachments/underbarrel/spetsnazgrip.png'
         },
         {
             name: 'Spetsnaz Speedgrip', //DONT NEED
@@ -9152,8 +9152,8 @@ function pelington703LB() {
             image: '/attachments/barrels/25reinforcedheavy.png'
         },
         {
-            name: '27.3 Combat Recon', //NEED
-            image: '/attachments/barrels/273combatrecon.png'
+            name: '27.2 Combat Recon', //NEED
+            image: '/attachments/barrels/272combatrecon.png'
         },
         {
             name: '21.7 Ultralight', //NEED
@@ -9525,7 +9525,7 @@ function lw3tundraLB() {
         },
         {
             name: 'Ultrazoom Custom', //DONT NEED
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
@@ -9622,8 +9622,8 @@ function lw3tundraLB() {
             image: '/attachments/barrels/265cavalrylancer.png'
         },
         {
-            name: '26.8 Rapid Fire', //NEED
-            image: '/attachments/barrels/268rapidfire.png'
+            name: '25.8 Rapid Fire', //NEED
+            image: '/attachments/barrels/258rapidfire.png'
         },
         {
             name: '29.1 Combat Recon', //NEED
@@ -9999,7 +9999,7 @@ function m82LB() {
         },
         {
             name: 'Ultrazoom Custom', //DONT NEED
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
@@ -12464,7 +12464,7 @@ function ffar1LBS() {
         },
         {
             name: '20.3 Takedown', //NEED
-            image: '/attachments/barrels/20.3takedown.png'
+            image: '/attachments/barrels/203takedown.png'
         },
         {
             name: '19.5 Task Force', //NEED
@@ -13414,7 +13414,7 @@ function mp5LBS() {
         },
         {
             name: '9.5 Task Force', //NEED
-            image: '/attachments/barrels/91taskforce.png'
+            image: '/attachments/barrels/95taskforce.png'
         },
     ];
 
@@ -16352,8 +16352,8 @@ function type63LBS() {
             image: '/attachments/underbarrel/bruisergrip.png'
         },
         {
-            name: 'Spetsnaz Ergonomic Grip', //NEED
-            image: '/attachments/underbarrel/spetsnazergonomicgrip.png'
+            name: 'Spetsnaz Grip', //NEED
+            image: '/attachments/underbarrel/spetsnazgrip.png'
         },
         {
             name: 'Spetsnaz Speedgrip', //DONT NEED
@@ -19467,7 +19467,7 @@ function pelington703LBS() {
         },
         {
             name: 'Ultrazoom Custom', //NEED
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
@@ -19568,8 +19568,8 @@ function pelington703LBS() {
             image: '/attachments/barrels/25reinforcedheavy.png'
         },
         {
-            name: '27.3 Combat Recon', //NEED
-            image: '/attachments/barrels/273combatrecon.png'
+            name: '27.2 Combat Recon', //NEED
+            image: '/attachments/barrels/272combatrecon.png'
         },
         {
             name: '21.7 Ultralight', //NEED
@@ -19941,7 +19941,7 @@ function lw3tundraLBS() {
         },
         {
             name: 'Ultrazoom Custom', //DONT NEED
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
@@ -20038,8 +20038,8 @@ function lw3tundraLBS() {
             image: '/attachments/barrels/265cavalrylancer.png'
         },
         {
-            name: '26.8 Rapid Fire', //NEED
-            image: '/attachments/barrels/268rapidfire.png'
+            name: '25.8 Rapid Fire', //NEED
+            image: '/attachments/barrels/258rapidfire.png'
         },
         {
             name: '29.1 Combat Recon', //NEED
@@ -20415,7 +20415,7 @@ function m82LBS() {
         },
         {
             name: 'Ultrazoom Custom', //DONT NEED
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
@@ -22002,7 +22002,7 @@ function p1911LB() {
         },
         {
             name: 'Sound Suppressor',
-            image: '/attachments/muzzles/soundusppressor.png'
+            image: '/attachments/muzzles/soundsuppressor.png'
         },
         {
             name: 'Infantry Compensator',
@@ -22364,7 +22364,7 @@ function magnumLB() {
         },
         {
             name: 'Sound Suppressor',
-            image: '/attachments/muzzles/soundusppressor.png'
+            image: '/attachments/muzzles/soundsuppressor.png'
         },
         {
             name: 'Infantry Compensator',
@@ -22413,7 +22413,7 @@ function magnumLB() {
         },
         {
             name: '6.4 Reinforced Heavy', //NEED
-            image: '/attachments/barrels/64reinfocedheavy.png'
+            image: '/attachments/barrels/64reinforcedheavy.png'
         },
         {
             name: '7.5 Chrome Lined', //NEED
@@ -22725,7 +22725,7 @@ function diamattiLB() {
         },
         {
             name: 'Sound Suppressor',
-            image: '/attachments/muzzles/soundusppressor.png'
+            image: '/attachments/muzzles/soundsuppressor.png'
         },
         {
             name: 'Infantry Compensator',
@@ -24191,7 +24191,7 @@ function p1911LBP() {
         },
         {
             name: 'Sound Suppressor',
-            image: '/attachments/muzzles/soundusppressor.png'
+            image: '/attachments/muzzles/soundsuppressor.png'
         },
         {
             name: 'Infantry Compensator',
@@ -24557,7 +24557,7 @@ function magnumLBP() {
         },
         {
             name: 'Sound Suppressor',
-            image: '/attachments/muzzles/soundusppressor.png'
+            image: '/attachments/muzzles/soundsuppressor.png'
         },
         {
             name: 'Infantry Compensator',
@@ -24606,7 +24606,7 @@ function magnumLBP() {
         },
         {
             name: '6.4 Reinforced Heavy', //NEED
-            image: '/attachments/barrels/64reinfocedheavy.png'
+            image: '/attachments/barrels/64reinforcedheavy.png'
         },
         {
             name: '7.5 Chrome Lined', //NEED
@@ -24918,7 +24918,7 @@ function diamattiLBP() {
         },
         {
             name: 'Sound Suppressor',
-            image: '/attachments/muzzles/soundusppressor.png'
+            image: '/attachments/muzzles/soundsuppressor.png'
         },
         {
             name: 'Infantry Compensator',

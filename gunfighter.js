@@ -1845,7 +1845,7 @@ function qbz83w() {
         },
         {
             name: 'CQB Pad',
-            image: '/attachments/stocks/cqboad.png'
+            image: '/attachments/stocks/cqbpad.png'
         },
         {
             name: 'SAS Combat Stock',
@@ -2048,7 +2048,7 @@ function ffar1w() {
         },
         {
             name: '20.3 Takedown',
-            image: '/attachments/barrels/20.3takedown.png'
+            image: '/attachments/barrels/203takedown.png'
         },
         {
             name: '19.5 Task Force',
@@ -2998,7 +2998,7 @@ function mp5w() {
         },
         {
             name: '9.5 Task Force',
-            image: '/attachments/barrels/91taskforce.png'
+            image: '/attachments/barrels/95taskforce.png'
         },
     ];
 
@@ -5936,8 +5936,8 @@ function type63w() {
             image: '/attachments/underbarrel/bruisergrip.png'
         },
         {
-            name: 'Spetsnaz Ergonomic Grip',
-            image: '/attachments/underbarrel/spetsnazergonomicgrip.png'
+            name: 'Spetsnaz Grip',
+            image: '/attachments/underbarrel/spetsnazgrip.png'
         },
         {
             name: 'Spetsnaz Speedgrip',
@@ -9055,7 +9055,7 @@ function pelington703w() {
         },
         {
             name: 'Ultrazoom Custom',
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal',
@@ -9156,8 +9156,8 @@ function pelington703w() {
             image: '/attachments/barrels/25reinforcedheavy.png'
         },
         {
-            name: '27.3 Combat Recon',
-            image: '/attachments/barrels/273combatrecon.png'
+            name: '27.2 Combat Recon',
+            image: '/attachments/barrels/272combatrecon.png'
         },
         {
             name: '21.7 Ultralight',
@@ -9529,7 +9529,7 @@ function lw3tundraw() {
         },
         {
             name: 'Ultrazoom Custom',
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal',
@@ -9626,8 +9626,8 @@ function lw3tundraw() {
             image: '/attachments/barrels/265cavalrylancer.png'
         },
         {
-            name: '26.8 Rapid Fire',
-            image: '/attachments/barrels/268rapidfire.png'
+            name: '25.8 Rapid Fire',
+            image: '/attachments/barrels/258rapidfire.png'
         },
         {
             name: '29.1 Combat Recon',
@@ -10003,7 +10003,7 @@ function m82w() {
         },
         {
             name: 'Ultrazoom Custom',
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal',

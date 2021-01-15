@@ -2048,7 +2048,7 @@ function ffar1() {
         },
         {
             name: '20.3 Takedown',
-            image: '/attachments/barrels/20.3takedown.png'
+            image: '/attachments/barrels/203takedown.png'
         },
         {
             name: '19.5 Task Force',
@@ -9052,7 +9052,7 @@ function pelington703() {
         },
         {
             name: 'Ultrazoom Custom', 
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
@@ -9153,8 +9153,8 @@ function pelington703() {
             image: '/attachments/barrels/25reinforcedheavy.png'
         },
         {
-            name: '27.3 Combat Recon',
-            image: '/attachments/barrels/273combatrecon.png'
+            name: '27.2 Combat Recon',
+            image: '/attachments/barrels/272combatrecon.png'
         },
         {
             name: '21.7 Ultralight',
@@ -9526,7 +9526,7 @@ function lw3tundra() {
         },
         {
             name: 'Ultrazoom Custom', //DONT NEED
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
@@ -9623,8 +9623,8 @@ function lw3tundra() {
             image: '/attachments/barrels/265cavalrylancer.png'
         },
         {
-            name: '26.8 Rapid Fire',
-            image: '/attachments/barrels/268rapidfire.png'
+            name: '25.8 Rapid Fire',
+            image: '/attachments/barrels/258rapidfire.png'
         },
         {
             name: '29.1 Combat Recon',
@@ -10000,7 +10000,7 @@ function m82() {
         },
         {
             name: 'Ultrazoom Custom', //DONT NEED
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED

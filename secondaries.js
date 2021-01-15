@@ -1582,7 +1582,7 @@ function magnum() {
         },
         {
             name: '6.4 Reinforced Heavy',
-            image: '/attachments/barrels/64reinfocedheavy.png'
+            image: '/attachments/barrels/64reinforcedheavy.png'
         },
         {
             name: '7.5 Chrome Lined',
