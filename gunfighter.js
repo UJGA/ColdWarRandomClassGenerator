@@ -110,7 +110,7 @@ function xm4w() {
         },
         {
             name: 'Agency Suppressor',
-            image: '/attachments/muzzles/agencysuppressir.png'
+            image: '/attachments/muzzles/agencysuppressor.png'
         },
     ];
 
@@ -9060,7 +9060,7 @@ function pelington703w() {
         },
         {
             name: 'AN/PVS-4 Thermal',
-            image: '/attachments/optics/anpvs4.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -9097,7 +9097,7 @@ function pelington703w() {
         },
         {
             name: 'Flash Hider .308',
-            image: '/attachments/muzzles/flashider308.png'
+            image: '/attachments/muzzles/flashhider308.png'
         },
         {
             name: 'Sound Moderator',
@@ -9534,7 +9534,7 @@ function lw3tundraw() {
         },
         {
             name: 'AN/PVS-4 Thermal',
-            image: '/attachments/optics/anpvs4.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -9571,7 +9571,7 @@ function lw3tundraw() {
         },
         {
             name: 'Flash Hider .308',
-            image: '/attachments/muzzles/flashider308.png'
+            image: '/attachments/muzzles/flashhider308.png'
         },
         {
             name: 'Sound Moderator',
@@ -10008,7 +10008,7 @@ function m82w() {
         },
         {
             name: 'AN/PVS-4 Thermal',
-            image: '/attachments/optics/anpvs4.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -10045,7 +10045,7 @@ function m82w() {
         },
         {
             name: 'Flash Hider .50 BMG',
-            image: '/attachments/muzzles/flashider50bmg.png'
+            image: '/attachments/muzzles/flashhider50bmg.png'
         },
         {
             name: 'Sound Moderator',

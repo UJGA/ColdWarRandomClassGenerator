@@ -110,7 +110,7 @@ function xm4() {
         },
         {
             name: 'Agency Suppressor',
-            image: '/attachments/muzzles/agencysuppressir.png'
+            image: '/attachments/muzzles/agencysuppressor.png'
         },
     ];
 
