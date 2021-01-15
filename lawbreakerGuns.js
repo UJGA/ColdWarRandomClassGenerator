@@ -251,7 +251,7 @@ function xm4LB() {
     var underbarrels = [
         {
             name: 'Foregrip', //NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //NEED
@@ -722,7 +722,7 @@ function ak47LB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -1194,7 +1194,7 @@ function krig6LB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -1668,7 +1668,7 @@ function qbz83LB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -1845,7 +1845,7 @@ function qbz83LB() {
         },
         {
             name: 'CQB Pad',  //DONT NEED
-            image: '/attachments/stocks/cqboad.png'
+            image: '/attachments/stocks/cqbpad.png'
         },
         {
             name: 'SAS Combat Stock',  //DONT NEED
@@ -2140,7 +2140,7 @@ function ffar1LB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -2613,7 +2613,7 @@ function grozaLB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -2994,7 +2994,7 @@ function mp5LB() {
         },
         {
             name: '9.1 Rifled', //NEED
-            image: '/attachments/barrels/91 Rifled.png'
+            image: '/attachments/barrels/91Rifled.png'
         },
         {
             name: '9.5 Task Force', //NEED
@@ -3086,11 +3086,11 @@ function mp5LB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -3555,11 +3555,11 @@ function milano821LB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -4028,11 +4028,11 @@ function ak74uLB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -4506,7 +4506,7 @@ function ksp45LB() {
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -4973,11 +4973,11 @@ function bullfrogLB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -5446,11 +5446,11 @@ function mac10LB() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -6449,28 +6449,24 @@ function m16LB() {
 
     var magazines = [
         {
-            name: '35 Rnd',  //NEED
-            image: '/attachments/magazines/35rnd.png'
+            name: '45 Rnd', 
+            image: '/attachments/magazines/45rnd.png'
         },
         {
             name: 'Jungle-Style Mag', //DONT NEED
             image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: '35 Rnd Speed Mag', //DONT NEED //NEED
-            image: '/attachments/magazines/35rndspeedmag.png'
+            name: '45 Rnd Speed Mag', //DONT NEED
+            image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
-            name: 'STANAG 54 Rnd', //NEED
+            name: 'STANAG 54 Rnd',
             image: '/attachments/magazines/stanag54rnd.png'
         },
         {
             name: 'SAS Mag Clamp',  //DONT NEED
             image: '/attachments/magazines/sasmagclamp.png'
-        },
-        {
-            name: 'Agency Silencer', //NEED
-            image: '/attachments/magazines/salvo54rndfastmag.png'
         },
     ];
 
@@ -6677,7 +6673,7 @@ function augLB() {
 
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
-            image: '/attachments/optics/anpsv4thermal.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -8948,7 +8944,7 @@ function m60LB() {
         },
         {
             name: 'Marathon Stock',  //DONT NEED
-            image: '/attachments/stocks/marathon.png'
+            image: '/attachments/stocks/marathonstock.png'
         },
         {
             name: 'Duster Stock', //DONT NEED
@@ -9055,7 +9051,7 @@ function pelington703LB() {
         },
         {
             name: 'Ultrazoom Custom', //NEED
-            image: '/attachments/optics/untrazoomcustom.png'
+            image: '/attachments/optics/ultrazoomcustom.png'
         },
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
@@ -10671,7 +10667,7 @@ function xm4LBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //NEED
@@ -11142,7 +11138,7 @@ function ak47LBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -11614,7 +11610,7 @@ function krig6LBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -12088,7 +12084,7 @@ function qbz83LBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -12265,7 +12261,7 @@ function qbz83LBS() {
         },
         {
             name: 'CQB Pad',  //DONT NEED
-            image: '/attachments/stocks/cqboad.png'
+            image: '/attachments/stocks/cqbpad.png'
         },
         {
             name: 'SAS Combat Stock',  //DONT NEED
@@ -12560,7 +12556,7 @@ function ffar1LBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -13033,7 +13029,7 @@ function grozaLBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip', //DONT NEED
@@ -13414,7 +13410,7 @@ function mp5LBS() {
         },
         {
             name: '9.1 Rifled', //NEED
-            image: '/attachments/barrels/91 Rifled.png'
+            image: '/attachments/barrels/91Rifled.png'
         },
         {
             name: '9.5 Task Force', //NEED
@@ -13506,11 +13502,11 @@ function mp5LBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -13975,11 +13971,11 @@ function milano821LBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -14448,11 +14444,11 @@ function ak74uLBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -14926,7 +14922,7 @@ function ksp45LBS() {
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -15393,11 +15389,11 @@ function bullfrogLBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -15866,11 +15862,11 @@ function mac10LBS() {
     var underbarrels = [
         {
             name: 'Foregrip', //DONT NEED
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',  //DONT NEED
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',  //DONT NEED
@@ -16869,28 +16865,24 @@ function m16LBS() {
 
     var magazines = [
         {
-            name: '35 Rnd',  //NEED
-            image: '/attachments/magazines/35rnd.png'
+            name: '45 Rnd', 
+            image: '/attachments/magazines/45rnd.png'
         },
         {
             name: 'Jungle-Style Mag', //DONT NEED
             image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: '35 Rnd Speed Mag', //DONT NEED //NEED
-            image: '/attachments/magazines/35rndspeedmag.png'
+            name: '45 Rnd Speed Mag', //DONT NEED
+            image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
-            name: 'STANAG 54 Rnd', //NEED
+            name: 'STANAG 54 Rnd',
             image: '/attachments/magazines/stanag54rnd.png'
         },
         {
             name: 'SAS Mag Clamp',  //DONT NEED
             image: '/attachments/magazines/sasmagclamp.png'
-        },
-        {
-            name: 'Agency Silencer', //NEED
-            image: '/attachments/magazines/salvo54rndfastmag.png'
         },
     ];
 
@@ -17097,7 +17089,7 @@ function augLBS() {
 
         {
             name: 'AN/PVS-4 Thermal', //DONT NEED
-            image: '/attachments/optics/anpsv4thermal.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
@@ -19368,7 +19360,7 @@ function m60LBS() {
         },
         {
             name: 'Marathon Stock',  //DONT NEED
-            image: '/attachments/stocks/marathon.png'
+            image: '/attachments/stocks/marathonstock.png'
         },
         {
             name: 'Duster Stock', //DONT NEED
@@ -20950,7 +20942,7 @@ function hauer77LB() {
     var barrels = [
         {
             name: '22 Extended', //NEED
-            image: '/attachments/barrels/22ectended.png'
+            image: '/attachments/barrels/22extended.png'
         },
         {
             name: '20.4 Cavalry Lancer', //NEED
@@ -22020,10 +22012,6 @@ function p1911LB() {
             name: 'SOCOM Eliminator',
             image: '/attachments/muzzles/socomeliminator.png'
         },
-        {
-            name: 'Agency Suppressor',
-            image: '/attachments/muzzles/test.png'
-        },
     ];
 
 
@@ -22386,10 +22374,6 @@ function magnumLB() {
             name: 'SOCOM Eliminator',
             image: '/attachments/muzzles/socomeliminator.png'
         },
-        {
-            name: 'Agency Suppressor',
-            image: '/attachments/muzzles/test.png'
-        },
     ];
 
 
@@ -22750,10 +22734,6 @@ function diamattiLB() {
         {
             name: 'SOCOM Eliminator',
             image: '/attachments/muzzles/socomeliminator.png'
-        },
-        {
-            name: 'Agency Suppressor',
-            image: '/attachments/muzzles/test.png'
         },
     ];
 
@@ -23151,7 +23131,7 @@ function hauer77LBP() {
     var barrels = [
         {
             name: '22 Extended', //NEED
-            image: '/attachments/barrels/22ectended.png'
+            image: '/attachments/barrels/22extended.png'
         },
         {
             name: '20.4 Cavalry Lancer', //NEED
@@ -24587,10 +24567,6 @@ function magnumLBP() {
             name: 'SOCOM Eliminator',
             image: '/attachments/muzzles/socomeliminator.png'
         },
-        {
-            name: 'Agency Suppressor',
-            image: '/attachments/muzzles/test.png'
-        },
     ];
 
 
@@ -24951,10 +24927,6 @@ function diamattiLBP() {
         {
             name: 'SOCOM Eliminator',
             image: '/attachments/muzzles/socomeliminator.png'
-        },
-        {
-            name: 'Agency Suppressor',
-            image: '/attachments/muzzles/test.png'
         },
     ];
 

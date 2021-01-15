@@ -22,10 +22,10 @@ var primarysArrayLB = [
         name: 'FFAR 1',
         image: '/primaries/ffar1.png'
     },
-    {
-        name: 'Groza',
-        image: '/primaries/groza.png'
-    },
+    // {
+    //     name: 'Groza',
+    //     image: '/primaries/groza.png'
+    // },
 
     //Submachine Guns
     {
@@ -108,10 +108,10 @@ var primarysArrayLB = [
                 name: 'Gallo SA12',
                 image: '/secondaries/gallosa12.png'
             },
-            {
-                name: 'Streetsweeper',
-                image: '/secondaries/streetsweeper.png'
-            },
+            // {
+            //     name: 'Streetsweeper',
+            //     image: '/secondaries/streetsweeper.png'
+            // },
     
             //Pistols
             {
@@ -142,14 +142,14 @@ var primarysArrayLB = [
                 name: 'Knife',
                 image: '/secondaries/knife.png'
             },
-            {
-                name: 'Sledgehammer',
-                image: '/secondaries/sledgehammer.png'
-            },
-            {
-                name: 'Wakizashi',
-                image: '/secondaries/wakizashi.png'
-            },
+            // {
+            //     name: 'Sledgehammer',
+            //     image: '/secondaries/sledgehammer.png'
+            // },
+            // {
+            //     name: 'Wakizashi',
+            //     image: '/secondaries/wakizashi.png'
+            // },
     
             //Special
             {
@@ -171,10 +171,10 @@ var primarysArrayLB = [
             name: 'Gallo SA12',
             image: '/secondaries/gallosa12.png'
         },
-        {
-            name: 'Streetsweeper',
-            image: '/secondaries/streetsweeper.png'
-        },
+        // {
+        //     name: 'Streetsweeper',
+        //     image: '/secondaries/streetsweeper.png'
+        // },
 
         //Pistols
         {
@@ -205,14 +205,14 @@ var primarysArrayLB = [
             name: 'Knife',
             image: '/secondaries/knife.png'
         },
-        {
-            name: 'Sledgehammer',
-            image: '/secondaries/sledgehammer.png'
-        },
-        {
-            name: 'Wakizashi',
-            image: '/secondaries/wakizashi.png'
-        },
+        // {
+        //     name: 'Sledgehammer',
+        //     image: '/secondaries/sledgehammer.png'
+        // },
+        // {
+        //     name: 'Wakizashi',
+        //     image: '/secondaries/wakizashi.png'
+        // },
 
         //Special
         {
@@ -242,10 +242,10 @@ var primarysArrayLB = [
         name: 'FFAR 1',
         image: '/primaries/ffar1.png'
     },
-    {
-        name: 'Groza',
-        image: '/primaries/groza.png'
-    },
+    // {
+    //     name: 'Groza',
+    //     image: '/primaries/groza.png'
+    // },
 
     //Submachine Guns
     {

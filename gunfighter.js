@@ -46,7 +46,7 @@ function xm4w() {
         },
         {
             name: 'Royal & Kross 4x',
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom',
@@ -251,7 +251,7 @@ function xm4w() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip',
@@ -517,7 +517,7 @@ function ak47w() {
         },
         {
             name: 'Royal & Kross 4x',
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom',
@@ -722,7 +722,7 @@ function ak47w() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip',
@@ -989,7 +989,7 @@ function krig6w() {
         },
         {
             name: 'Royal & Kross 4x',
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom',
@@ -1194,7 +1194,7 @@ function krig6w() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip',
@@ -1463,7 +1463,7 @@ function qbz83w() {
         },
         {
             name: 'Royal & Kross 4x',
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom',
@@ -1668,7 +1668,7 @@ function qbz83w() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip',
@@ -1935,7 +1935,7 @@ function ffar1w() {
         },
         {
             name: 'Royal & Kross 4x',
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom',
@@ -2140,7 +2140,7 @@ function ffar1w() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip',
@@ -2408,7 +2408,7 @@ function grozaw() {
         },
         {
             name: 'Royal & Kross 4x',
-            image: '/attachments/optics/royalkross4x.png'
+            image: '/attachments/optics/royalandkross4x.png'
         },
         {
             name: 'SUSAT Multizoom',
@@ -2613,7 +2613,7 @@ function grozaw() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Infiltrator Grip',
@@ -2994,7 +2994,7 @@ function mp5w() {
         },
         {
             name: '9.1 Rifled',
-            image: '/attachments/barrels/91 Rifled.png'
+            image: '/attachments/barrels/91Rifled.png'
         },
         {
             name: '9.5 Task Force',
@@ -3086,11 +3086,11 @@ function mp5w() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',
@@ -3555,11 +3555,11 @@ function milano821w() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',
@@ -4028,11 +4028,11 @@ function ak74uw() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',
@@ -4506,7 +4506,7 @@ function ksp45w() {
         },
         {
             name: 'Red Cell Foregrip',
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',
@@ -4973,11 +4973,11 @@ function bullfrogw() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',
@@ -5446,11 +5446,11 @@ function mac10w() {
     var underbarrels = [
         {
             name: 'Foregrip',
-            image: '/attachments/underbarrel/foregrup.png'
+            image: '/attachments/underbarrel/foregrip.png'
         },
         {
             name: 'Red Cell Foregrip',
-            image: '/attachments/underbarrel/redcellforgrip.png'
+            image: '/attachments/underbarrel/redcellforegrip.png'
         },
         {
             name: 'Patrol Grip',
