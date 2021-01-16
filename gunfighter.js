@@ -6677,7 +6677,7 @@ function augw() {
 
         {
             name: 'AN/PVS-4 Thermal',
-            image: '/attachments/optics/anspv4thermal.png'
+            image: '/attachments/optics/anpvs4thermal.png'
         },
 
     ];
