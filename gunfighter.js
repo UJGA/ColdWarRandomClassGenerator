@@ -7899,7 +7899,7 @@ function stoner63w() {
         },
         {
             name: 'Salvo 125 Rnd Fast Mag',
-            image: '/attachments/magazines/salvo124rndfastmag.png'
+            image: '/attachments/magazines/salvo125rndfastmag.png'
         },
     ];
 
@@ -8949,7 +8949,7 @@ function m60w() {
         },
         {
             name: 'Marathon Stock',
-            image: '/attachments/stocks/marathon.png'
+            image: '/attachments/stocks/marathonstock.png'
         },
         {
             name: 'Duster Stock',

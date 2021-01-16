@@ -7899,7 +7899,7 @@ function stoner63() {
         },
         {
             name: 'Salvo 125 Rnd Fast Mag',
-            image: '/attachments/magazines/salvo124rndfastmag.png'
+            image: '/attachments/magazines/salvo125rndfastmag.png'
         },
     ];
 
