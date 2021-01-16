@@ -26,7 +26,7 @@ function hauer77() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -393,7 +393,7 @@ function gallosa12() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -760,7 +760,7 @@ function gallosa12() {
 //         },
 //         {
 //             name: 'Microflex LED',
-//             image: '/attachments/optics/microflexLED.png'
+//             image: '/attachments/optics/microflexled.png'
 //         },
 //     ];
 
@@ -1131,7 +1131,7 @@ function p1911() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -1493,7 +1493,7 @@ function magnum() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -1854,7 +1854,7 @@ function diamatti() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
