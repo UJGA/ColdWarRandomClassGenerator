@@ -561,11 +561,11 @@ function ak47w() {
     var muzzles = [
         {
             name: 'Muzzle Brakge 7.62',
-            image: '/attachments/muzzles/muzzlebrake7.62.png'
+            image: '/attachments/muzzles/muzzlebrake762.png'
         },
         {
             name: 'Flashguard 7.62',
-            image: '/attachments/muzzles/flashguard7.62.png'
+            image: '/attachments/muzzles/flashguard762.png'
         },
         {
             name: 'Suppressor',
@@ -1090,11 +1090,11 @@ function krig6w() {
         },
         {
             name: '17.7 Cavalry Lancer',
-            image: '/attachments/barrels/177calalrylancer.png'
+            image: '/attachments/barrels/177cavalrylancer.png'
         },
         {
-            name: '16.5 Contour',
-            image: '/attachments/barrels/165contour.png'
+            name: '15.5 Contour',
+            image: '/attachments/barrels/155contour.png'
         },
         {
             name: '18.7 Ranger',
@@ -4567,8 +4567,8 @@ function ksp45w() {
             image: '/attachments/magazines/42rndspeedmag.png'
         },
         {
-            name: 'STANAG 48 Rnd Drum',
-            image: '/attachments/magazines/stanag48rnddrum.png'
+            name: 'STANAG 48 Rnd ',
+            image: '/attachments/magazines/stanag48rnd.png'
         },
         {
             name: 'Vandal Speed Loader',

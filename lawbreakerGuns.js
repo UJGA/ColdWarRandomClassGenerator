@@ -561,11 +561,11 @@ function ak47LB() {
     var muzzles = [
         {
             name: 'Muzzle Brakge 7.62', //NEED
-            image: '/attachments/muzzles/muzzlebrake7.62.png'
+            image: '/attachments/muzzles/muzzlebrake762.png'
         },
         {
             name: 'Flashguard 7.62', //NEED
-            image: '/attachments/muzzles/flashguard7.62.png'
+            image: '/attachments/muzzles/flashguard762.png'
         },
         {
             name: 'Suppressor', //DONT NEED
@@ -1090,11 +1090,11 @@ function krig6LB() {
         },
         {
             name: '17.7 Cavalry Lancer', //NEED
-            image: '/attachments/barrels/177calalrylancer.png'
+            image: '/attachments/barrels/177cavalrylancer.png'
         },
         {
-            name: '16.5 Contour', //NEED
-            image: '/attachments/barrels/165contour.png'
+            name: '15.5 Contour',
+            image: '/attachments/barrels/155contour.png'
         },
         {
             name: '18.7 Ranger', //NEED
@@ -4567,8 +4567,8 @@ function ksp45LB() {
             image: '/attachments/magazines/42rndspeedmag.png'
         },
         {
-            name: 'STANAG 48 Rnd Drum', //NEED 
-            image: '/attachments/magazines/stanag48rnddrum.png'
+            name: 'STANAG 48 Rnd', //NEED 
+            image: '/attachments/magazines/stanag48rnd.png'
         },
         {
             name: 'Vandal Speed Loader',  //DONT NEED //NEED 
@@ -10981,11 +10981,11 @@ function ak47LBS() {
     var muzzles = [
         {
             name: 'Muzzle Brakge 7.62', //NEED
-            image: '/attachments/muzzles/muzzlebrake7.62.png'
+            image: '/attachments/muzzles/muzzlebrake762.png'
         },
         {
             name: 'Flashguard 7.62', //NEED
-            image: '/attachments/muzzles/flashguard7.62.png'
+            image: '/attachments/muzzles/flashguard762.png'
         },
         {
             name: 'Suppressor', //DONT NEED
@@ -11510,11 +11510,11 @@ function krig6LBS() {
         },
         {
             name: '17.7 Cavalry Lancer', //NEED
-            image: '/attachments/barrels/177calalrylancer.png'
+            image: '/attachments/barrels/177cavalrylancer.png'
         },
         {
-            name: '16.5 Contour', //NEED
-            image: '/attachments/barrels/165contour.png'
+            name: '15.5 Contour',
+            image: '/attachments/barrels/155contour.png'
         },
         {
             name: '18.7 Ranger', //NEED
@@ -14987,8 +14987,8 @@ function ksp45LBS() {
             image: '/attachments/magazines/42rndspeedmag.png'
         },
         {
-            name: 'STANAG 48 Rnd Drum', //NEED 
-            image: '/attachments/magazines/stanag48rnddrum.png'
+            name: 'STANAG 48 Rnd ', //NEED 
+            image: '/attachments/magazines/stanag48rnd.png'
         },
         {
             name: 'Vandal Speed Loader',  //DONT NEED //NEED 
