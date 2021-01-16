@@ -2994,7 +2994,7 @@ function mp5LB() {
         },
         {
             name: '9.1 Rifled', //NEED
-            image: '/attachments/barrels/91Rifled.png'
+            image: '/attachments/barrels/91rifled.png'
         },
         {
             name: '9.5 Task Force', //NEED
@@ -13414,7 +13414,7 @@ function mp5LBS() {
         },
         {
             name: '9.1 Rifled', //NEED
-            image: '/attachments/barrels/91Rifled.png'
+            image: '/attachments/barrels/91rifled.png'
         },
         {
             name: '9.5 Task Force', //NEED
