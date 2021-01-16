@@ -6677,7 +6677,7 @@ function augw() {
 
         {
             name: 'AN/PVS-4 Thermal',
-            image: '/attachments/optics/anpsv4thermal.png'
+            image: '/attachments/optics/anspv4thermal.png'
         },
 
     ];
@@ -6924,27 +6924,27 @@ function augw() {
 
     var magazines = [
         {
-            name: '45 Rnd Drum',
+            name: '45 Rnd Drum', 
             image: '/attachments/magazines/45rnddrum.png'
         },
         {
-            name: 'Jungle-Style Mag',
+            name: 'Jungle-Style Mag', 
             image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: '35 Rnd Speed Mag',
-            image: '/attachments/magazines/35rndspeedmag.png'
+            name: '45 Rnd Speed Mag',
+            image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
             name: 'STANAG 54 Rnd Drum',
             image: '/attachments/magazines/stanag54rnddrum.png'
         },
         {
-            name: 'SAS Mag Clamp',
+            name: 'SAS Mag Clamp',  //DONT NEED
             image: '/attachments/magazines/sasmagclamp.png'
         },
         {
-            name: 'Salvo 54 Rnd Fast Mag',
+            name: 'Agency Silencer', //DONT NEED
             image: '/attachments/magazines/salvo54rndfastmag.png'
         },
     ];

@@ -6924,19 +6924,19 @@ function augLB() {
 
     var magazines = [
         {
-            name: '45 Rnd Drum', //NEED
+            name: '45 Rnd Drum', 
             image: '/attachments/magazines/45rnddrum.png'
         },
         {
-            name: 'Jungle-Style Mags', //NEED
+            name: 'Jungle-Style Mag', 
             image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: '35 Rnd Speed Mag', //NEED
-            image: '/attachments/magazines/35rndspeedmag.png'
+            name: '45 Rnd Speed Mag',
+            image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
-            name: 'STANAG 54 Rnd Drum', //NEED
+            name: 'STANAG 54 Rnd Drum',
             image: '/attachments/magazines/stanag54rnddrum.png'
         },
         {
@@ -17344,19 +17344,19 @@ function augLBS() {
 
     var magazines = [
         {
-            name: '45 Rnd Drum', //NEED
+            name: '45 Rnd Drum', 
             image: '/attachments/magazines/45rnddrum.png'
         },
         {
-            name: 'Jungle-Style Mag', //NEED
-            image: '/attachments/magazines/.png'
+            name: 'Jungle-Style Mag', 
+            image: '/attachments/magazines/junglestylemag.png'
         },
         {
-            name: '35 Rnd Speed Mag', //NEED
-            image: '/attachments/magazines/35rndspeedmag.png'
+            name: '45 Rnd Speed Mag',
+            image: '/attachments/magazines/45rndspeedmag.png'
         },
         {
-            name: 'STANAG 54 Rnd Drum', //NEED
+            name: 'STANAG 54 Rnd Drum',
             image: '/attachments/magazines/stanag54rnddrum.png'
         },
         {
