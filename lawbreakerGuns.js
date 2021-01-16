@@ -38,7 +38,7 @@ function xm4LB() {
         },
         {
             name: 'Microflex LED', //NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //NEED
@@ -509,7 +509,7 @@ function ak47LB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -981,7 +981,7 @@ function krig6LB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -1455,7 +1455,7 @@ function qbz83LB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -1927,7 +1927,7 @@ function ffar1LB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -2400,7 +2400,7 @@ function grozaLB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -2865,7 +2865,7 @@ function mp5LB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -3338,7 +3338,7 @@ function milano821LB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -3807,7 +3807,7 @@ function ak74uLB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -4281,7 +4281,7 @@ function ksp45LB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -4752,7 +4752,7 @@ function bullfrogLB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -5225,7 +5225,7 @@ function mac10LB() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -10458,7 +10458,7 @@ function xm4LBS() {
         },
         {
             name: 'Microflex LED', //NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //NEED
@@ -10929,7 +10929,7 @@ function ak47LBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -11401,7 +11401,7 @@ function krig6LBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -11875,7 +11875,7 @@ function qbz83LBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -12347,7 +12347,7 @@ function ffar1LBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -12820,7 +12820,7 @@ function grozaLBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -13285,7 +13285,7 @@ function mp5LBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -13758,7 +13758,7 @@ function milano821LBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -14227,7 +14227,7 @@ function ak74uLBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -14701,7 +14701,7 @@ function ksp45LBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -15172,7 +15172,7 @@ function bullfrogLBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -15645,7 +15645,7 @@ function mac10LBS() {
         },
         {
             name: 'Microflex LED', //DONT NEED
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
         {
             name: 'Hawksmoor', //DONT NEED
@@ -20865,7 +20865,7 @@ function hauer77LB() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -21232,7 +21232,7 @@ function gallosa12LB() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -21599,7 +21599,7 @@ function gallosa12LB() {
 //         },
 //         {
 //             name: 'Microflex LED',
-//             image: '/attachments/optics/microflexLED.png'
+//             image: '/attachments/optics/microflexled.png'
 //         },
 //     ];
 
@@ -21970,7 +21970,7 @@ function p1911LB() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -22332,7 +22332,7 @@ function magnumLB() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -22693,7 +22693,7 @@ function diamattiLB() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -23054,7 +23054,7 @@ function hauer77LBP() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -23421,7 +23421,7 @@ function gallosa12LBP() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -23788,7 +23788,7 @@ function gallosa12LBP() {
 //         },
 //         {
 //             name: 'Microflex LED',
-//             image: '/attachments/optics/microflexLED.png'
+//             image: '/attachments/optics/microflexled.png'
 //         },
 //     ];
 
@@ -24159,7 +24159,7 @@ function p1911LBP() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -24522,7 +24522,7 @@ function magnumLBP() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
@@ -24883,7 +24883,7 @@ function diamattiLBP() {
         },
         {
             name: 'Microflex LED',
-            image: '/attachments/optics/microflexLED.png'
+            image: '/attachments/optics/microflexled.png'
         },
     ];
 
