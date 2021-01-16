@@ -30,7 +30,7 @@ var primarysArrayLB = [
     //Submachine Guns
     {
         name: 'MP5',
-        image: '/primaries/mp5.png'
+        image: '/primaries/mp5.png' 
     },
     {
         name: 'Milano 821',
