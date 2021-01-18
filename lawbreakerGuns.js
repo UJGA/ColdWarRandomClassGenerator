@@ -1,5 +1,92 @@
 //XM4
 
+document.getElementById("primaryH3").innerHTML = ""
+    document.getElementById("primary").innerHTML = "";
+
+    // Reset Primary Attachment 1
+    document.getElementById("primaryAtt1H3").innerHTML = "";
+    document.getElementById("primaryAtt1").innerHTML = "";
+
+    // Reset Primary Attachment 2
+    document.getElementById("primaryAtt2H3").innerHTML = "";
+    document.getElementById("primaryAtt2").innerHTML = "";
+
+    // Reset Primary Attachment 3
+    document.getElementById("primaryAtt3H3").innerHTML = "";
+    document.getElementById("primaryAtt3").innerHTML = "";
+
+    // Reset Primary Attachment 4
+    document.getElementById("primaryAtt4H3").innerHTML = "";
+    document.getElementById("primaryAtt4").innerHTML = "";
+
+    // Reset Primary Attachment 5
+    document.getElementById("primaryAtt5H3").innerHTML = "";
+    document.getElementById("primaryAtt5").innerHTML = "";
+
+    // Reset Primary Attachment 6
+    document.getElementById("primaryAtt6H3").innerHTML = "";
+    document.getElementById("primaryAtt6").innerHTML = "";
+
+    // Reset Primary Attachment 7
+    document.getElementById("primaryAtt7H3").innerHTML = "";
+    document.getElementById("primaryAtt7").innerHTML = "";
+
+    // Reset Primary Attachment 8
+    document.getElementById("primaryAtt8H3").innerHTML = "";
+    document.getElementById("primaryAtt8").innerHTML = "";
+
+
+    // Reset Secondary
+    document.getElementById("secondaryH3").innerHTML = "";
+    document.getElementById("secondary").innerHTML = "";
+
+    // Reset secondary Attachment 1
+    document.getElementById("secondaryAtt1H3").innerHTML = "";
+    document.getElementById("secondaryAtt1").innerHTML = "";
+
+    // Reset secondary Attachment 2
+    document.getElementById("secondaryAtt2H3").innerHTML = "";
+    document.getElementById("secondaryAtt2").innerHTML = "";
+
+    // Reset secondary Attachment 3
+    document.getElementById("secondaryAtt3H3").innerHTML = "";
+    document.getElementById("secondaryAtt3").innerHTML = "";
+
+    // Reset secondary Attachment 4
+    document.getElementById("secondaryAtt4H3").innerHTML = "";
+    document.getElementById("secondaryAtt4").innerHTML = "";
+
+    // Reset secondary Attachment 5
+    document.getElementById("secondaryAtt5H3").innerHTML = "";
+    document.getElementById("secondaryAtt5").innerHTML = "";
+
+    // Reset secondary Attachment 6
+    document.getElementById("secondaryAtt6H3").innerHTML = "";
+    document.getElementById("secondaryAtt6").innerHTML = "";
+
+    // Reset ssecondaryAttachment 7
+    document.getElementById("secondaryAtt7H3").innerHTML = "";
+    document.getElementById("secondaryAtt7").innerHTML = "";
+
+    // Reset secondary Attachment 8
+    document.getElementById("secondaryAtt8H3").innerHTML = "";
+    document.getElementById("secondaryAtt8").innerHTML = "";
+
+
+
+
+    // Reset Perk 1
+    document.getElementById("perk1H3").innerHTML = "";
+    document.getElementById("perk1").innerHTML = "";
+
+    // Reset Perk 2
+    document.getElementById("perk2H3").innerHTML = "";
+    document.getElementById("perk2").innerHTML = "";
+
+    // Reset Perk 3
+    document.getElementById("perk3H3").innerHTML = "";
+    document.getElementById("perk3").innerHTML = "";
+
 function xm4LB() {
     var numAttachments = [0, 1, 2, 3, 4, 5, 6, 7];
     var totalCount = 5;
